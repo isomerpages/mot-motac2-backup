@@ -4,9 +4,8 @@ permalink: /value-for-money-award/vd1/
 description: ""
 ---
 ![](/images/hero.png)
-##  MINISTER’S VFM ACHIEVEMENT AWARD
-## Distinguished Award
-<img src="/images/Logos/CAAS.png" align="left" width="100px"/>
+<h1 style="text-align:center"> MINISTER’S VFM ACHIEVEMENT AWARD</h1>
+<h1 style="text-align:center"> Distinguished Award</h1>
 
-### AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY
-### 
+<img src="/images/Logos/CAAS.png" width="100"/>
+<h1 style="text-align:center"> AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY</h1>
