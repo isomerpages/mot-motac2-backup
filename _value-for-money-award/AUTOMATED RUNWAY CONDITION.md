@@ -93,3 +93,7 @@ description: ""
 * **Total Cost Savings: ≥ $4.80mil.**
 	* **Annual Cost Savings: $1.35mil for 2 runways.**
 	* **Project Cost Savings: $3.44mil through integration with existing systems.**
+
+### OUTCOME STATEMENT
+
+**The implemented solution had achieved an efficient way to automatically report RCR in a timely manner that led to operational efficiency, improved safety outcome and cost savings.**
