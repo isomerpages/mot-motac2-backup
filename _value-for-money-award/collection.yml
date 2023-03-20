@@ -1,4 +1,5 @@
 collections:
   value-for-money-award:
     output: true
-    order: []
+    order:
+      - AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY.md
