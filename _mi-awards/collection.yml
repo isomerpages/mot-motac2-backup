@@ -1,0 +1,4 @@
+collections:
+  mi-awards:
+    output: true
+    order: []
