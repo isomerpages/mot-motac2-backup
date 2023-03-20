@@ -2,5 +2,6 @@ collections:
   value-for-money-award:
     output: true
     order:
+      - LTA VD3.md
       - CAAS  VD1.md
       - LTA VD2.md
