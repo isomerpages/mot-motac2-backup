@@ -68,3 +68,11 @@ description: ""
 ### PROBLEM STATEMENT
 
 **Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events.**
+
+### SOLUTION
+
+* Optimised use of existing resources and synergised the capabilities of the suite of systems:
+
+	* Automated Weather Observation System (AWOS) measures the water level along the runways automatically. This data is sent to Automatic Runway Condition Reporting (A-RCR) System for data analytics and processing.
+	* A-RCR System processes the data received from AWOS and generates the corresponding Runway Condition Report (RCR). This report is sent to Automatic Terminal Information Service (ATIS) System for processing and broadcast.
+	* ATIS System receives the RCR data from A-RCR system and integrates it into the ATIS report for broadcast to aircraft (via VHF broadcast and datalink).
