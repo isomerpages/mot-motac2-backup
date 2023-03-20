@@ -76,3 +76,20 @@ description: ""
 	* Automated Weather Observation System (AWOS) measures the water level along the runways automatically. This data is sent to Automatic Runway Condition Reporting (A-RCR) System for data analytics and processing.
 	* A-RCR System processes the data received from AWOS and generates the corresponding Runway Condition Report (RCR). This report is sent to Automatic Terminal Information Service (ATIS) System for processing and broadcast.
 	* ATIS System receives the RCR data from A-RCR system and integrates it into the ATIS report for broadcast to aircraft (via VHF broadcast and datalink).
+	
+![solution](/images/VFM/VD1/VD1_Solution1.png)
+
+### SOLUTION STATEMENT
+
+**Synergised the capabilities of the suite of systems, namely, AWOS, A-RCR, AIMS and ATIS systems, to collaborate on the reporting of runway surface condition in a timely, efficient and effective manner for operational safety.**
+
+### IMPACT
+
+![](/images/VFM/VD1/VD1%20Impact%201A.png)
+
+* Being one of the first few airports in the world to innovatively determine the real-time runway surface conditions automatically through the use of data analytics, and end-to-end integration of existing systems’ functionalities.
+* Achieved higher operational efficiency, and avoidance of more than 1,000 manual measurements instances per year per runway which equates to at least 250 hours of downtime per year for each runway.
+* Achieved timely reporting of updated RCR automatically when there was a change in runway surface condition.
+* **Total Cost Savings: ≥ $4.80mil.**
+	* **Annual Cost Savings: $1.35mil for 2 runways.**
+	* **Project Cost Savings: $3.44mil through integration with existing systems.**
