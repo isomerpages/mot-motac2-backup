@@ -4,13 +4,22 @@ permalink: /minister-value-for-money-award/vd1/
 description: ""
 ---
 ![](/images/hero.png)
+
+<center>
+	
 ### MINISTER’S VFM ACHIEVEMENT AWARD
 ####  Distinguished Award
 ### AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY
+	
+</center>
 
 ![](/images/VFM/VD1/VD1%20IconicPic2.png)
 
+<center>
+	
 ### Project Team
+	
+</center>	
 
 ![Team Image](/images/VFM/VD1/Team_Photo_Combined.jpg)
 
@@ -48,7 +57,11 @@ description: ""
 
 **Edwin Chow**
 
+<center>
+
 ### NEED FOR PROJECT
+	
+</center>	
 
 * Runway excursions (veer off or overrun from the runway surface) have always been a top safety risk, with poor braking action as a key contributing factor.
 
@@ -65,11 +78,19 @@ description: ""
 
 ![need for project 3](/images/VFM/VD1/VD1_NeedforProject3.png)
 
+<center>
+
 ### PROBLEM STATEMENT
+
+</center>
 
 **Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events.**
 
+<center>
+
 ### SOLUTION
+
+</center>
 
 * Optimised use of existing resources and synergised the capabilities of the suite of systems:
 
@@ -79,12 +100,20 @@ description: ""
 	
 ![solution](/images/VFM/VD1/VD1_Solution1.png)
 
+<center>
+	
 ### SOLUTION STATEMENT
 
+</center>
+	
 **Synergised the capabilities of the suite of systems, namely, AWOS, A-RCR, AIMS and ATIS systems, to collaborate on the reporting of runway surface condition in a timely, efficient and effective manner for operational safety.**
+
+<center>
 
 ### IMPACT
 
+</center>	
+	
 ![](/images/VFM/VD1/VD1%20Impact%201A.png)
 
 * Being one of the first few airports in the world to innovatively determine the real-time runway surface conditions automatically through the use of data analytics, and end-to-end integration of existing systems’ functionalities.
@@ -94,6 +123,10 @@ description: ""
 	* **Annual Cost Savings: $1.35mil for 2 runways.**
 	* **Project Cost Savings: $3.44mil through integration with existing systems.**
 
+<center>
+
 ### OUTCOME STATEMENT
 
+</center>	
+	
 **The implemented solution had achieved an efficient way to automatically report RCR in a timely manner that led to operational efficiency, improved safety outcome and cost savings.**
