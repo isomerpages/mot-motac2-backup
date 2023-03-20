@@ -2,5 +2,5 @@ collections:
   mi-awards:
     output: true
     order:
-      - CAAS MOT ID2.md
       - CAAS ID1.md
+      - CAAS MOT ID2.md
