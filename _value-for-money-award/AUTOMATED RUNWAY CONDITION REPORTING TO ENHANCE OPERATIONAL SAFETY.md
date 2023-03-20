@@ -9,3 +9,5 @@ description: ""
 
 <img src="/images/Logos/CAAS.png" width="100"/>
 <h1 style="text-align:center"> AUTOMATED RUNWAY CONDITION REPORTING TO ENHANCE OPERATIONAL SAFETY</h1>
+
+![](/images/VFM/VD1/VD1%20IconicPic2.png)
