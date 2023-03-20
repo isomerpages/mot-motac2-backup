@@ -64,3 +64,7 @@ description: ""
 *  GRF to be implemented by 4 Nov 2021.
 
 ![need for project 3](/images/VFM/VD1/VD1_NeedforProject3.png)
+
+### PROBLEM STATEMENT
+
+**Need to address the problem on the lack of accuracy and timeliness of assessment and reporting methods on the runway surface conditions that had contributed to many operational safety events.**
