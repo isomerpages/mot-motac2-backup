@@ -590,4 +590,79 @@ Land Transport Authority</p>
 <p><strong>Mr Teh Swee Choon</strong><br>
 Engineer, Traffic Lights Facility, Traffic, Street &amp; Commuter Fac Lighting, Traffic &amp; Road Operations<br>
 Land Transport Authority</p>
+
+<p>
+  <strong>Mr Lua Hock Keong</strong><br>
+  Senior Manager, Vertical Transport & Tunnel E&M, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Ng Swee Kiang Raymond</strong><br>
+  Deputy Manager, Road Works Regulations & Licensing, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Abdul Rashid Bin Abdul Jalil</strong><br>
+  Senior Admin Executive, Traffic Schemes Design Development, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Lim Ching Liang</strong><br>
+  Executive Engineer, Road Works Regulations & Licensing, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Azhar Bin Abdul Rahman</strong><br>
+  Senior Admin Executive, Service And Resource Mgt, Service & Resource Management, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Tan Kok Eng, Eddie</strong><br>
+  Deputy Manager, Vertical Transport & Tunnel E&M, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Foo Say Yaw</strong><br>
+  Deputy Director, Commuters Facilities Management, Commuters Facilities Management, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Razali Bin Basri</strong><br>
+  Engineer, Bridges & Tunnels Management, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Chan Mun Tuck</strong><br>
+  Senior Engineer, Vertical Transport & Tunnel E&M, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Shanmugam s/o Ramaswami</strong><br>
+  Deputy Director, Roads & Road Facilities Management, Roads & Road Facilities Management, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Song Khee Boon Eddy</strong><br>
+  Manager, Violation Reports, Compliance Management, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Kwang Sing Chye William</strong><br>
+  Senior Manager, Roads & Road Facilities Management, Traffic & Road Operations<br>
+  Land Transport Authority
+</p>
+
+<p><strong>Mr Abdulhalim Bin Amin</strong><br>Executive Engineer, Road Works Regulations & Licensing, Traffic & Road Operations<br>Land Transport Authority</p>
+<p><strong>Mr Chong Shaw Feng</strong><br>Senior Engineer, Intelligent Transport Systems Development, Transportation Technology<br>Land Transport Authority</p>
+<p><strong>Mr Muhamadnoh Bin Wandy</strong><br>Manager, Intelligent Transport System 2, Intelligent Transport Systems Development, Transportation Technology<br>Land Transport Authority</p>
+<p><strong>Mr Yeo Koon Cheng</strong><br>Principal Engineer, Intelligent Transport Systems Development, Intelligent Transport Systems Development, Transportation Technology<br>Land Transport Authority</p>
+<p><strong>Mdm Quek Lee Tiang Trina</strong><br>Senior Customer Relations Executive, Customer Services, Vehicle Services<br>Land Transport Authority</p>
+<p><strong>Ms Saedah Bte Mohd Salim</strong><br>Principal Executive, Operations, Vehicle Licensing, Vehicle Services<br>Land Transport Authority</p>
+<p><strong>Mr How Kiam Hong</strong><br>Assistant Manager, Investigations, General Investigations & Intelligence, Vehicle Services<br>Land Transport Authority</p>
+<p><strong>Mr Chan Seong Ngai Eric</strong><br>Deputy Manager, Registration, Vehicle Quota & Registration, Vehicle Services<br>Land Transport Authority</p>
+<p><strong>Mr Song Tiancheng</strong><br>Deputy Director (Engineering), Engineering & Project Management, EPM Dir's Office<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Ting Cheng Heong Thomas</strong><br>Chief Technology Officer / Deputy Director (ITTD), Innovation, Tech & Talent Development, ITTD Dir's Office<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Lee Weng Choy</strong><br>Deputy Chief Hydrographer, Hydrographic Survey<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Chen Kit Jam</strong><br>Deputy Director (Shipping)/Deputy Director (Marine) Shipping, Shipping Dir's Office<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Ms Emily Shalawati Bte Sihab</strong><br>Senior Manager (Seafarers Management), Shipping Seafarers Management<br>Maritime and Port Authority of Singapore</p>
 </center>
