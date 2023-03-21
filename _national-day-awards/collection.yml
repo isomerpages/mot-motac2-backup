@@ -2,6 +2,6 @@ collections:
   national-day-awards:
     output: true
     order:
-      - The Public Administration Medal.md
       - The Meritorious Service Medal.md
       - The Public Service Star Medal.md
+      - The Public Administration Medal.md
