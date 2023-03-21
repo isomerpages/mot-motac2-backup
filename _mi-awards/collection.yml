@@ -2,7 +2,6 @@ collections:
   mi-awards:
     output: true
     order:
-      - LTA iM11.md
       - CAAS ID1.md
       - CAAS MOT ID2.md
       - LTA ID3.md
@@ -19,3 +18,4 @@ collections:
       - MPA iM8.md
       - CAAS iM9.md
       - LTA iM10.md
+      - LTA iM11.md
