@@ -3,8 +3,6 @@ title: The Long Service Medal
 permalink: /national-day-awards/long-service-medal/
 description: ""
 ---
-![](/images/hero.png)
-
 <center>
 <h2>THE LONG SERVICE MEDAL</h2>
 
@@ -459,4 +457,51 @@ Land Transport Authority</p>
 <p><strong>Ms Amarjit Kaur d/o Surjan Singh</strong><br>
 Admin Executive, Contracts (E&amp;M Services), Safety &amp; Contracts<br>
 Land Transport Authority</p>
+
+<p><strong>Mdm Chee Huey Mien</strong><br>
+Director, Procurement, Safety &amp; Contracts<br>
+Land Transport Authority</p>
+<p><strong>Mr Teng Koon Chuah</strong><br>
+Manager, Contracts, Contracts (Civil 2), Safety &amp; Contracts<br>
+Land Transport Authority</p>
+<p><strong>Ms Chung Lai Pheng</strong><br>
+Manager, Programme Planning, 1 Programme Planning, Safety &amp; Contracts<br>
+Land Transport Authority</p>
+<p><strong>Mdm Yap Siok Eng</strong><br>
+Senior Manager, Contracts, Jurong Region Line (Civil 1), Safety &amp; Contracts<br>
+Land Transport Authority</p>
+<p><strong>Mrs Lee Yew Fong</strong><br>
+Deputy Director, Contracts, Road &amp; Commuter Facility, Contracts, Road &amp; Commuter Facility, Safety & Contracts<br>
+Land Transport Authority</p>
+<p><strong>Ms Normah Bte Saini</strong><br>
+Senior Admin Executive, Contracts (Civil 3), Safety &amp; Contracts</p>
+<p><strong>Mr Lee Chee Hiung</strong><br>
+Assistant Procurement Manager, Tender &amp; Procurement, Safety &amp; Contracts</p>
+<p><strong>Mr Sim Wee Tiong</strong><br>
+Deputy Director, Cost Control (Electrical &amp; Mechanical), Cost Control (E&amp;M), Safety &amp; Contracts</p>
+<p><strong>Mr Mohamad Nor Bin Bachok</strong><br>
+Assistant Manager, Contracts, Contracts (IT &amp; Other Systems), Safety &amp; Contracts</p>
+<p><strong>Mr Tan Wee Meng</strong><br>
+Senior Manager, Contracts, Contracts (Civil 3), Safety &amp; Contracts</p>
+<p><strong>Mr Misran Bin Walet</strong><br>
+Deputy Manager, Contracts, 2 Contracts (Rail Core Systems), Safety &amp; Contracts</p>
+<p><strong>Mr Ang Yong Tong</strong><br>
+Principal Manager, Programme Planning, 1 Programme Planning, Safety & Contracts<br>
+Land Transport Authority</p>
+<p><strong>Mr Ang Boon Kui</strong><br>
+Deputy Director, Rail Services, 2 Rail Services, Rail (Electrical &amp; Mechanical)<br>
+Land Transport Authority</p>
+<p><strong>Mdm Choo Chai Foong</strong><br>
+Group Director, Infrastructure Design &amp; Engineering, Infrastructure Design &amp; Engineering<br>
+Land Transport Authority</p>
+<p><strong>Dr Chan Wai Samuel</strong><br>
+Group Director, Rail / Road Systems Engineering, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mdm Hartini Bte Kamis</strong><br>
+Executive, Records Management, Knowledge Management, Technology &amp; Industry Development<br>
+Land Transport Authority</p>
+<p><strong>Mdm Yeo Chay Joo</strong><br>
+Assistant Manager, Office Administration, Technology &amp; Industry Development<br>
+Land Transport Authority</p>
+
 </center>
