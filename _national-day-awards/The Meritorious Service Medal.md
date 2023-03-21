@@ -7,12 +7,10 @@ description: ""
 
 <center>
   <h2>THE MERITORIOUS SERVICE MEDAL</h2>
-  <h3>[Pingat Jasa Gemilang] <h3>
+  <h3>[Pingat Jasa Gemilang]</h3>
 </center>
-		
 <center>
   <p>
-    <b>Mr Seah Moon Ming </b>
-    <br>Chairman, SMRT Corporation Ltd.
-  </p>
+    <b>Mr Seah Moon Ming</b>
+  <br>Chairman, SMRT Corporation Ltd.</p>
 </center>
