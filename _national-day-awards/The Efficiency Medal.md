@@ -120,4 +120,52 @@ description: ""
 <p>Rail Infrastructure &amp; Expansion</p>
 <p>Land Transport Authority</p>
 	
+<p>
+  <strong>Mr Lee Kar Seong, Wilsons</strong>
+</p>
+<p>Senior Engineer</p>
+<p>Road Construction 1 (Civil 1)</p>
+<p>Road &amp; Commuter Infrastructure Development</p>
+<p>Land Transport Authority</p>
+<p>
+  <strong>Mr Tan Chik Heng</strong>
+</p>
+<p>Deputy Manager</p>
+<p>Vertical Transport &amp; Tunnel E&amp;M</p>
+<p>Traffic &amp; Road Operations</p>
+<p>Land Transport Authority</p>
+<p>
+  <strong>Mr Wong Lee Heng</strong>
+</p>
+<p>Assistant Manager, Contracts</p>
+<p>Contracts, North-South Corridor (Civil 3), Safety &amp; Contracts</p>
+<p>Land Transport Authority</p>
+<p>
+  <strong>Ms Ng Shean Chyng</strong>
+</p>
+<p>Assistant Manager, Resource Management &amp; Service</p>
+<p>Vehicle Approval &amp; Control, Vehicle Services</p>
+<p>Land Transport Authority</p>
+<p>
+  <strong>Mr Cheong Sin Huat</strong>
+</p>
+<p>Senior Watch Supervisor,</p>
+<p>Operations &amp; Marine Services, Vessel Traffic Management</p>
+<p>Maritime and Port Authority of Singapore</p>
+<p>
+  <strong>Mr Anwari Bin Ahmad</strong>
+</p>
+<p>Technical Executive</p>
+<p>Engineering &amp; Project Management, Space Management</p>
+<p>Maritime and Port Authority of Singapore</p>
+<p>
+  <strong>Mr Muhammad Nor Azmi Bin Aman</strong>
+</p>
+<p>Senior Technical Executive, Hydrographics, Aids to Navigation</p>
+<p>Maritime and Port Authority of Singapore</p>
+<p>
+  <strong>Ms Winnie Chen Lianhan</strong>
+</p>
+<p>Deputy Manager, Corporate Services</p>
+<p>Public Transport Council</p>
 </center>
