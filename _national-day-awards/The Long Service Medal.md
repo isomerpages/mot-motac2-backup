@@ -503,5 +503,73 @@ Land Transport Authority</p>
 <p><strong>Mdm Yeo Chay Joo</strong><br>
 Assistant Manager, Office Administration, Technology &amp; Industry Development<br>
 Land Transport Authority</p>
+<p><strong>Mr Lim Tuck Fang</strong><br>
+Principal Project Manager, 1 Cross Island Line Phase 1 (Civil Team 4),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
 
+<p><strong>Mdm Ng Sock King</strong><br>
+Principal Project Manager, Thomson-East Coast Line (Civil Team 5),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Tang Man</strong><br>
+Principal Project Manager, 2 Thomson-East Coast Line (Civil Team 6),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mdm See Sok Eng</strong><br>
+Senior Project Engineer, 1 Cross Island Line Phase 1 (Civil Team 3),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Ms Aisah Bte Samon</strong><br>
+Principal Project Admin Executive, Thomson-East Coast Line (Civil Team 5),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Ms Rowanna Bte Abdullah</strong><br>
+Executive Project Engineer, Cross Island Line P1(CT2) & TEL Extension,<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Lee Siong Koon</strong><br>
+Senior Project Engineer, Thomson-East Coast Line (Civil Team 5),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Mohammed Irwan Bin Sahir</strong><br>
+Senior Assistant Project Engineer, Thomson-East Coast Line (Civil Team 5),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Tay Hock Choon</strong><br>
+Project Engineer, 1 Cross Island Line Phase 1 (Civil Team 3), Thomson-East<br>
+Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Chua Chee Meng</strong><br>
+Deputy Project Manager, Thomson-East Coast Line (Civil Team 5), Thomson-East<br>
+Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Teo Tiong Eng</strong><br>
+Higher Principal Engineering Officer, 2 Cross Island Line Phase 1 (Civil Team 4),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Wan Zin Bin Ali</strong><br>
+Executive Project Engineer, 1 Cross Island Line Phase 1 (Civil Team 3),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Koo Jyh Kwang</strong><br>
+Senior Project Engineer, 2 Thomson-East Coast Line (Civil Team 6),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Ng Sing Kwong</strong><br>
+Senior Project Engineer, 2 Thomson-East Coast Line (Civil Team 6),<br>
+Thomson-East Coast & Cross Island Lines<br>
+Land Transport Authority</p>
 </center>
