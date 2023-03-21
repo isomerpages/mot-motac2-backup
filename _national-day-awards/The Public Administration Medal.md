@@ -3,7 +3,7 @@ title: The Public Administration Medal
 permalink: /national-day-awards/public-administration/
 description: ""
 ---
-![](/images/hero.png)
+![](/images/hero.png) 
 
 <center>
   <h2>THE PUBLIC ADMINISTRATION MEDAL (GOLD)</h2>
@@ -12,10 +12,8 @@ description: ""
 <center>
   <p>
     <b>Mr Tay Tiang Guan</b>
+    <br>1 Deputy Director-General / Chief Risk Officer <br> Cluster Heads and Group Heads Office <br> Civil Aviation Authority of Singapore
   </p>
-  <p>1 Deputy Director-General / Chief Risk Officer</p>
-  <p>Cluster Heads and Group Heads Office</p>
-  <p>Civil Aviation Authority of Singapore</p>
 </center>
 <center>
   <h2>THE PUBLIC ADMINISTRATION MEDAL (SILVER)(BAR)</h2>
@@ -24,11 +22,9 @@ description: ""
 <center>
   <p>
     <b>Mr Yeo Teck Guan</b>
+    <br> Senior Group Director, Public Transport <br> Land Transport Authority
   </p>
-  <p>Senior Group Director, Public Transport</p>
-  <p>Land Transport Authority</p>
 </center>
-
 <center>
   <h1>THE PUBLIC ADMINISTRATION MEDAL (SILVER)</h1>
   <h3>[Pingat Pentadbiran Awam (Perak)]</h3>
@@ -36,35 +32,25 @@ description: ""
 <center>
   <p>
     <b>Ms Margaret Tan Puay Kuen</b>
+    <br> Director (Airport Operations Regulation and Aviation Security) <br> Airport Operations Regulation and Aviation Security <br> Civil Aviation Authority of Singapore
   </p>
-  <p>Director (Airport Operations Regulation and Aviation Security)</p>
-  <p>Airport Operations Regulation and Aviation Security</p>
-  <p>Civil Aviation Authority of Singapore</p>
   <p>
     <b>Mr Hermizan Bin Mohamed Jumari</b>
+    <br> Deputy Director (Planning) <br> Air Traffic Services <br> Civil Aviation Authority of Singapore
   </p>
-  <p>Deputy Director (Planning)</p>
-  <p>Air Traffic Services</p>
-  <p>Civil Aviation Authority of Singapore</p>
   <p>
     <b>Dr Samuel Chan Wai</b>
+    <br> Group Director, Rail / Road Systems Engineering <br> Land Transport Authority
   </p>
-  <p>Group Director, Rail / Road Systems Engineering</p>
-  <p>Land Transport Authority</p>
   <p>
     <b>Mr Yap Boon Leong</b>
+    <br> Group Director, Road & Commuter <br> Infrastructure Development <br> Land Transport Authority
   </p>
-  <p>Group Director, Road & Commuter</p>
-  <p>Infrastructure Development</p>
-  <p>Land Transport Authority</p>
   <p>
     <b>Mr Tan Hoe Soon</b>
+    <br> Assistant Chief Executive (Corp) <br> Chairman/CE's Office Chairman/CE's Office <br> Maritime and Port Authority of Singapore
   </p>
-  <p>Assistant Chief Executive (Corp)</p>
-  <p>Chairman/CE's Office Chairman/CE's Office</p>
-  <p>Maritime and Port Authority of Singapore</p>
 </center>
-
 <center>
   <h1>THE PUBLIC ADMINISTRATION MEDAL (BRONZE)</h1>
   <h3>[Pingat Pentadbiran Awam (Gangsa)]</h3>
@@ -72,57 +58,38 @@ description: ""
 <center>
   <p>
     <b>Mdm Irin Seah Li Yen</b>
+    <br> Deputy Director/Human Resource <br> Corporate Development Division <br> Ministry of Transport
   </p>
-  <p>Deputy Director/Human Resource</p>
-  <p>Corporate Development Division</p>
-  <p>Ministry of Transport</p>
   <p>
     <b>Mr Nicholas Ng Ju Sen</b>
+    <br> Seconded to Land Transport Authority as <br> Deputy Director, Electric Vehicle <br> Masterplanning <br> Ministry of Transport
   </p>
-  <p>Seconded to Land Transport Authority as</p>
-  <p>Deputy Director, Electric Vehicle</p>
-  <p>Masterplanning</p>
-  <p>Ministry of Transport</p>
   <p>
     <b>Mr Michael Pang Tze Leong</b>
+    <br> Deputy Director (Aviation Services), Flight <br> Standards <br> Civil Aviation Authority of Singapore
   </p>
-  <p>Deputy Director (Aviation Services), Flight</p>
-  <p>Standards</p>
-  <p>Civil Aviation Authority of Singapore</p>
   <p>
     <b>Ms Satwinder Kaur d/o Karam Singh</b>
+    <br> Deputy Director (Corporate Communications), <br> Corporate Communications <br> Civil Aviation Authority of Singapore
   </p>
-  <p>Deputy Director (Corporate Communications),</p>
-  <p>Corporate Communications</p>
-  <p>Civil Aviation Authority of Singapore</p>
   <p>
     <b>Mr Ang Mau Koon</b>
+    <br> 2 Deputy Director, North South Corridor (Civil 1), 2 North-South <br> Corridor (Civil 1), North-South Corridor <br> Land Transport Authority
   </p>
-  <p>2 Deputy Director, North South Corridor (Civil 1), 2 North-South</p>
-  <p>Corridor (Civil 1), North-South Corridor</p>
-  <p>Land Transport Authority</p>
   <p>
     <b>Mr Goh Boon Leng</b>
+    <br> Deputy Director, System Development, <br> System Development, Rail / Road Systems Engineering <br> Land Transport Authority
   </p>
-  <p>Deputy Director, System Development,</p>
-  <p>System Development, Rail / Road Systems Engineering</p>
-  <p>Land Transport Authority</p>
   <p>
     <b>Mr Ricardo Wang Huan Ran</b>
+    <br> Deputy Director, Bus Assets <br> Bus Assets, Public Transport <br> Land Transport Authority
   </p>
-  <p>Deputy Director, Bus Assets</p>
-  <p>Bus Assets, Public Transport</p>
-  <p>Land Transport Authority</p>
   <p>
     <b>Mr Zailani Bin Mohamed Idris</b>
+    <br> Deputy Director, Trackwork <br> Trackwork, Rail (Electrical &amp; Mechanical) <br> Land Transport Authority
   </p>
-  <p>Deputy Director, Trackwork</p>
-  <p>Trackwork, Rail (Electrical &amp; Mechanical)</p>
-  <p>Land Transport Authority</p>
   <p>
     <b>Mr Tay Yeow Min</b>
+    <br> Assistant Director (Maritime Human Capital) <br> ITTD, Maritime Human Capital <br> Maritime and Port Authority of Singapore
   </p>
-  <p>Assistant Director (Maritime Human Capital)</p>
-  <p>ITTD, Maritime Human Capital</p>
-  <p>Maritime and Port Authority of Singapore</p>
 </center>
