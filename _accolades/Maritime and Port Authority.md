@@ -24,7 +24,7 @@ description: ""
 	<p>This award attest to the contributions by the Port of Singapore to the maritime sector and global supply chains, especially amid the pandemic.</p>
 </center>
 
-
+![](/images/ACCOLADES/MPA/Champion_of_Good_2022_1_25.jpeg)
 
 <center>
 	<p><b>Champions of Good 2022  </b></p>
