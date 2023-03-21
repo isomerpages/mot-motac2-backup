@@ -2,5 +2,6 @@ collections:
   accolades:
     output: true
     order:
+      - Land Transport Authority.md
       - Ministry Of Transport.md
       - Maritime and Port Authority.md
