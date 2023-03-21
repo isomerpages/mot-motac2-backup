@@ -1,4 +1,5 @@
 collections:
   national-day-awards:
     output: true
-    order: []
+    order:
+      - The Meritorious Service Medal.md
