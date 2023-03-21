@@ -572,4 +572,22 @@ Land Transport Authority</p>
 Senior Project Engineer, 2 Thomson-East Coast Line (Civil Team 6),<br>
 Thomson-East Coast & Cross Island Lines<br>
 Land Transport Authority</p>
+
+<p><strong>Mr Liew Keng Ming Lawrence</strong><br>
+Principal Project Manager, 1 Cross Island Line Phase 1 (Civil Team 3),<br>
+Thomson-East Coast &amp; Cross Island Lines<br>
+Land Transport Authority</p>
+<p><strong>Mr Law Yong Fai</strong><br>
+Senior Project Engineer, 2 Cross Island Line Phase 1 (Civil Team 3),<br>
+Thomson-East Coast &amp; Cross Island Lines<br>
+Land Transport Authority</p>
+<p><strong>Mrs Puspalatha d/o Marimuthu</strong><br>
+Senior Admin Executive, Commuters Facilities Management, Traffic &amp; Road Operations<br>
+Land Transport Authority</p>
+<p><strong>Ms Oh Si Yun Jasmine</strong><br>
+Deputy Manager, Traffic Schemes Design Development, Traffic &amp; Road Operations<br>
+Land Transport Authority</p>
+<p><strong>Mr Teh Swee Choon</strong><br>
+Engineer, Traffic Lights Facility, Traffic, Street &amp; Commuter Fac Lighting, Traffic &amp; Road Operations<br>
+Land Transport Authority</p>
 </center>
