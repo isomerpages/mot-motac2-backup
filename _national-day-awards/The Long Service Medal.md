@@ -92,4 +92,108 @@ description: ""
     <b>Ms Oh Sew Hua</b>
     <br>Principal Engineer, Commuter & Road Infrastructure, 1 Commuter & Road Infrastructure, Infrastructure Design & Engineering <br>Land Transport Authority
   </p>
+  <p>
+    <b>Mr Jefri Bin Miswari</b>
+    <br>Principal Assistant Surveyor, Survey, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Ong Phui Kai</b>
+    <br>Deputy Director, Track & Alignment, Track & Alignment, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Ang Boon Pah</b>
+    <br>Principal Architectural Associate, 3 Architecture, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Saifol Bin Bukhari</b>
+    <br>Surveyor, Survey, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Mohamed Omar Bin Noor Mohamed</b>
+    <br>Executive Surveyor, Survey, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Haja Mohideen Bin Mohayatheen Ghaney</b>
+    <br>Principal Assistant Surveyor, Survey, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Jamalluddin Bin Alias</b>
+    <br>Executive Surveyor, Survey, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Muhammad Iqbal Bin Shaik Ismail Marican</b>
+    <br>Principal Assistant Engineer, 1 Commuter & Road Infrastructure, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Joehary Wahid Bin Ramlan</b>
+    <br>Executive Engineer, Digital Infra Collaboration Technology Management <br>Infrastructure Design & Engineering Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Subhagan s/o Chakrapani</b>
+    <br>Surveyor, Survey, Infrastructure Design & Engineering <br>Land Transport Authority
+  </p>
+  <p>
+    <b>Ms Chua Cheng Geok</b>
+    <br>Senior Manager, IT Systems, Corporate & Digital Services <br>IT, Cybersecurity & Digital Services Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Leong Chee Siong</b>
+    <br>Senior Manager, IT Systems Public Transport Industry Systems <br>IT, Cybersecurity & Digital Services Land Transport Authority
+  </p>
+  <p>
+    <b>Mdm Tay Siew Hoon</b>
+    <br> Principal Admin Executive, Legal Legal, Prosecution (Paths, Streets &amp; Services), Legal
+  </p>
+  <p>
+    <b>Ms Tang Ikin</b>
+    <br> Senior Manager, Road Pricing Operations, Road Pricing Systems, NexGen ERP Taskforce Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Naragimmon s/o Ganesan</b>
+    <br> Systems Operations Executive, Road Pricing Systems, NexGen ERP Taskforce Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Suah Shing Chyau</b>
+    <br> Senior Systems Operations Executive, Road Pricing Systems, NexGen ERP Taskforce Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Tang Yong Chye Philip</b>
+    <br> Systems Operations Executive, Road Pricing Systems, NexGen ERP Taskforce <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Loke Kok Cheong</b>
+    <br> Senior Engineer, Road Pricing Systems, NexGen ERP Taskforce <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Sulaiman Bin Maharobin</b>
+    <br> Senior Engineer, Road Pricing Systems, NexGen ERP Taskforce <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Chew Ek Hoe</b>
+    <br> Senior Project Manager, 1 North-South Corridor (Civil 1), North-South Corridor <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mdm Lee Fue Hwan</b>
+    <br> Principal Project Manager, 2 North-South Corridor (Civil 2), North-South Corridor <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Mah Siew Wah</b>
+    <br> Senior Project Engineer, 1 North-South Corridor (Civil 3), North-South Corridor <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Choo Hong Yow</b>
+    <br> Deputy Director, North-South Corridor (Civil 2), 1 North-South Corridor (Civil 2), North-South Corridor <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mr Hor Kwai Yeow</b>
+    <br> Deputy Director, North South Corridor (Civil 1), 1 North-South Corridor (Civil 1), North-South Corridor <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mdm Rusnitah Bte Othman</b>
+    <br> Engineer, Planning Compliance, Policy &amp; Planning <br> Land Transport Authority
+  </p>
+  <p>
+    <b>Mdm Chan Suan Huay</b>
+    <br> Admin Executive, Transport Planning Strategy, Policy &amp; Planning <br> Land Transport Authority
+  </p>
 </center>
