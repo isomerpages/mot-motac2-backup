@@ -3,10 +3,10 @@ title: The Long Service Medal
 permalink: /national-day-awards/long-service-medal/
 description: ""
 ---
+![](/images/hero.png)
+
 <center>
 <h2>THE LONG SERVICE MEDAL</h2>
-
-
 
 <p>
   <b>Mdm Doreen Teo Bee Ling</b>
