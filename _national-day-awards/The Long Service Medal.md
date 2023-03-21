@@ -5,7 +5,6 @@ description: ""
 ---
 ![](/images/hero.png)
 
-
 <center>
 <h2>THE LONG SERVICE MEDAL</h2>
 
@@ -300,4 +299,164 @@ Land Transport Authority</p>
 <p><strong>Mr Lee Swee Kwang</strong><br>
 Deputy Project Manager, 2 Jurong Region Line (Civil Team 1), Rail Infrastructure &amp; Expansion<br>
 Land Transport</p>
+<p>
+  <strong>Mr Nurhakim Bin Hudri</strong><br />
+  Deputy Director, Rail Expansion (Civil Team 2), Rail Expansion (Civil Team 2), Rail Infrastructure & Expansion<br />
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Tham Kong Weng</strong><br />
+  Senior Project Engineer, 2 Rail Expansion (Civil Team 1), Rail Infrastructure & Expansion<br />
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Chua Chow Chon Benny</strong><br />
+  Principal Project Manager, 2 Jurong Region Line (Civil Team 1), Rail Infrastructure & Expansion<br />
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Teo See Quek</strong><br />
+  Deputy Director, Jurong Region Line (Civil Team 1), 2 Jurong Region Line (Civil Team 1), 1 Jurong Region Line (Civil Team 1), Rail Infrastructure & Expansion<br />
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Gan Eng Keong</strong><br />
+  Deputy Project Manager, 2 Rail Expansion (Civil Team 3), Rail Infrastructure & Expansion<br />
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Lam Lee Choy</strong><br />
+  Senior Project Engineer, Infrastructure Enhancement, Rail Infrastructure & Expansion<br />
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Ong Chee Seng</strong><br />
+  Senior Design Manager, 2 Rail Expansion (Civil Team 1), Rail Infrastructure & Expansion<br />
+  Land Transport Authority
+</p>
+<p>
+  <strong>Mr Lim Kim Poh</strong><br />
+  Principal Project Manager, 2 Jurong Region Line (Civil Team 1), Rail Infrastructure & Expansion, Land Transport Authority
+</p>
+<p>
+  <strong>Ms Nonidayu Binte Bachok</strong><br />
+  Principal Project Admin Executive, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+<p>
+  <strong>Mr Lim Soo Ann</strong><br />
+  Senior Project Engineer, Rail Services 2, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+<p>
+  <strong>Ms Jamaliyah Bte Arif</strong><br />
+  Senior Project Admin Executive, Rail Services 6, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+<p>
+  <strong>Mr John Wadham</strong><br />
+  Principal Project Manager, Rail Services 7, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+<p>
+  <strong>Mr Mak Kum Hoong</strong><br />
+  Principal Project Manager, Trackwork, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+<p>
+  <strong>Mr Chan Cheng Hui</strong><br />
+  Senior Project Engineer, Rail Services 2, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+<p>
+  <strong>Mr Mohamad Fairuz Bin Abdul Mutalib</strong><br />
+  Executive Project Engineer, Rail Services 1, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+<p>
+  <strong>Mr Soh Mui Hong</strong><br />
+  Principal Manager, Network Renewal (Systems) 1, Rail (Electrical & Mechanical), Land Transport Authority
+</p>
+
+<p><strong>Mr Tio Chuan Aik</strong><br>
+Deputy Project Manager, Network Renewal (Systems) 3, Rail (Electrical &amp; Mechanical)<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Ng Ngin Khwang</strong><br>
+Deputy Director, Rail Services Rail Services 6, Rail (Electrical &amp; Mechanical)<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Yap Eng Hock</strong><br>
+Senior Project Manager, Rail Services 1, Rail (Electrical &amp; Mechanical)<br>
+Land Transport Authority</p>
+
+<p><strong>Ms Rohaiya Bte Jusoh</strong><br>
+Senior Admin Executive, Power Supply &amp; Electrical Services, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+
+<p><strong>Mdm Lee Hong Eng</strong><br>
+Assistant Manager, Fare System-Rail Projects &amp; Support, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+
+<p><strong>Mdm Jurianah Bte Jamil</strong><br>
+Senior Admin Executive, Depot Equipment &amp; Service Vehicles Devt, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+
+<p><strong>Ms Goh Kok Eng</strong><br>
+Executive Engineer, Tunnel Ventilation &amp; Mechanical Services, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+
+<p><strong>Mdm Ng Swee Siong</strong><br>
+Principal Admin Executive, Rolling Stock Development, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Hee Kok Hock</strong><br>
+Principal Manager, Systems Integration, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Loy Soo Khim</strong><br>
+Principal Engineer, Systems Assurance, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+
+<p><strong>Mr Ng Hwee Tong</strong><br>
+Principal Engineer, Tunnel Ventilation &amp; Mechanical Services, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Yong Ed-Mun</strong><br>
+Principal Engineer, Systems Assurance, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Ang Kok Wee</strong><br>
+Principal Manager, Tunnel Ventilation & Mechanical Services, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Lew Kim Leng</strong><br>
+Executive Engineer, Depot Equipment & Service Vehicles Devt, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Lim Buk Guan Roger</strong><br>
+Principal Manager, Systems Assurance, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Ong Chee Keong</strong><br>
+Principal Manager, Systems Assurance, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Toh Chee Tiong</strong><br>
+Principal Manager, Signals, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Lim Chng Wui</strong><br>
+Manager, System Architecture &amp; Assurance, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Yin Kum Kin</strong><br>
+Principal Manager, Projects System Support, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Tan Chok Kwang Vincent</strong><br>
+Principal Project Engineer, Fare System–Rail Projects &amp; Support, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Ong Lian Sheng Edwin</strong><br>
+Senior Engineer, Communications, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Pang Nghee Aun Martin</strong><br>
+Deputy Chief Specialist, Communications, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Oh Sin Hin</strong><br>
+Principal Manager, Systems Integration, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mr Tang Kah Ann</strong><br>
+Senior Engineering Officer, System Architecture & Assurance, Rail / Road Systems Engineering<br>
+Land Transport Authority</p>
+<p><strong>Mdm Norlela Bte Nawi</strong><br>
+Assistant Manager, Contracts, Contracts, Thomson-East Coast Line (CIV5), Safety & Contracts<br>
+Land Transport Authority</p>
+<p><strong>Ms Amarjit Kaur d/o Surjan Singh</strong><br>
+Admin Executive, Contracts (E&amp;M Services), Safety &amp; Contracts<br>
+Land Transport Authority</p>
 </center>
