@@ -12,6 +12,5 @@ description: ""
 <center>
   <p>
     <b>Mr Michael Chin Yong Kok</b>
-  </p>
-  <p>Member, Land Transport Authority Board</p>
+  <br>Member, Land Transport Authority Board</p>
 </center>
