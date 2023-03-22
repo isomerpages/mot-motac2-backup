@@ -3,10 +3,9 @@ title: MaritimeSG Youth Ambassadors
 permalink: /mi-awards/im7/
 description: ""
 ---
-
 ![](/images/hero.png)
 
-![](/images/MI/IM7/e-Panel_iM7_v01_Individual%20Award%20Contents%201-min.png)
+![](/images/MI/IM7/e-Panel_iM7_v01_Individual%20Award%20Contents%201.jpg)
 
 ![](/images/MI/IM7/e-Panel_iM7_v01_Individual%20Award%20Contents%202a.png)
 
