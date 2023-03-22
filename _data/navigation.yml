@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/MOTAC Show Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: MOTAC 2022/23
+    url: /motac22-23/
+  - title: SPECIAL APPRECIATION AWARD
+    url: /sas
+  - title: MINISTER'S VFM AWARD
+    collection: value-for-money-award
+  - title: MINISTER'S INNOVATION AWARD
+    collection: mi-awards
+  - title: NATIONAL DAY AWARDS
+    collection: national-day-awards
+  - title: ACCOLADES
+    collection: accolades
