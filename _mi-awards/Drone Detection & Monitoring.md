@@ -3,7 +3,6 @@ title: Drone Detection & Monitoring
 permalink: /mi-awards/im8/
 description: ""
 ---
-
 ![](/images/hero.png)
 
 ![](/images/MI/IM8/e-Panel_iM8_v01_Individual%20Award%20Contents%201.png)
