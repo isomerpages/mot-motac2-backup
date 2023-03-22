@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: 1 800 278 3500
       - email: mot@mot.gov.sg
-      - other: <a href="https://www.mot.gov.sg/">https://www.mot.gov.sg/</a>
+      - other: <a href="https://www.mot.gov.sg/">mot.gov.sg</a>
     title: Ministry Of Transport
 ---
