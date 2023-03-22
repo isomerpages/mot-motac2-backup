@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Auto Runway Reporting.md
-      - LTA VD2.md
+      - JRL Viaduct Bearings.md
       - LTA VD3.md
       - MPA VD4.md
       - CAAS VM1.md
