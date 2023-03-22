@@ -2,7 +2,7 @@ collections:
   mi-awards:
     output: true
     order:
-      - CAAS ID1.md
+      - Research & Dvlpmt of ATM Twin.md
       - CAAS MOT ID2.md
       - LTA ID3.md
       - LTA ID4.md
