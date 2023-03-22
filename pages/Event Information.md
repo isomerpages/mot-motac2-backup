@@ -7,11 +7,9 @@ description: ""
 
 |  |  | 
 | -------- | -------- |
-| Date     | 23 March 2023, Thursday     |
+| **Date**     | 23 March 2023, Thursday     |
 |      | **(Registration closes at 6.30pm. Please register and be seated by 6:30pm).**  |
-| Venue     | Swissotel The Stamford, Singapore (Raffles City Convention Centre)     |
+| **Venue**     | Swissotel The Stamford, Singapore (Raffles City Convention Centre)     |
 |      | 2 Stamford Road, S178882     |
 |      | **Fairmont Ballroom, Level 4**      |
-| Dress Code    | Office Attire (No tie and coat)     |
-
-
+| **Dress Code**    | Office Attire (No tie and coat)     |
