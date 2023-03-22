@@ -3,7 +3,6 @@ title: A Caring Commuter Culture
 permalink: /mi-awards/im5/
 description: ""
 ---
-
 ![](/images/hero.png)
 
 ![](/images/MI/IM5/e-Panel_iM5_v01_Individual%20Award%20Contents%201.png)
@@ -20,7 +19,7 @@ description: ""
 
 ![](/images/MI/IM5/e-Panel_iM5_v01_Individual%20Award%20Contents%203e.png)
 
-![](/images/MI/IM5/e-Panel_iM5_v01_Individual%20Award%20Contents%204a.png)
+![](/images/MI/IM5/e-Panel_iM5_v01_Individual%20Award%20Contents%204a.jpg)
 
 ![](/images/MI/IM5/e-Panel_iM5_v01_Individual%20Award%20Contents%204b.png)
 
