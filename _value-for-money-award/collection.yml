@@ -2,7 +2,7 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - CAAS  VD1.md
+      - Auto Runway Reporting.md
       - LTA VD2.md
       - LTA VD3.md
       - MPA VD4.md
