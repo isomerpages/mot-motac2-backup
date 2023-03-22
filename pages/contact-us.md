@@ -9,7 +9,7 @@ locations:
       - "#33-00 mTower"
       - Singapore 119963
     operating_hours: []
-    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.274&lng=103.801349
+    maps_link: https://www.google.com/maps/place/Ministry+of+Transport/@1.2745525,103.8009882,15z/data=!4m6!3m5!1s0x31da1bc11b63f16b:0xf6b0c31da7e673cc!8m2!3d1.2745525!4d103.8009882!16s%2Fg%2F1z449w87p
     title: Ministry Of Transport
 contacts:
   - content:
