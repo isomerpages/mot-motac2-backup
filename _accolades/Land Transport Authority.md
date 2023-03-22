@@ -26,8 +26,7 @@ description: ""
 ![](/images/ACCOLADES/LTA/Charity%20Plat%20Award%202021.jpg)
 
 <center>
-	<p><b>Charity Platinum Award  </b></p>
+	<p><b>Community Chest Award – Charity Platinum  </b></p>
 	<p>The Charity Awards recognise organisations for their holistic giving to Community Chest.</p>
 	<p> LTA was presented with the Charity Platinum Award for our contributions from 1 April 2021 to 31 March 2022, with 97% of LTA employees being enrolled in the SHARE programme and contributing more than $300,000 to ComChest.</p>
 </center>
-
