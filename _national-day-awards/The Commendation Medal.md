@@ -130,7 +130,7 @@ description: ""
   </p>
   <p>
     <strong>Ms Ho Hui Ting Melissa</strong>
-    <br> Senior Assistant Director (Strategy &amp; Planning) <br> Seconded to Ministry of Trade and Industry <br> Maritime and Port Authority of Singapore
+    <br> Seconded to Ministry of Trade and Industry <br> Senior Assistant Director (Strategy & Planning)<br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Ms Mardiana Binte Rahmad</strong>
