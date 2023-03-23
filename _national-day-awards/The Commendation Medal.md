@@ -126,7 +126,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Seow Jian Xue James</strong>
-    <br> Assistant Director (Transformation &amp; Service) <br> Transformation Office, Transformation &amp; OD <br> Maritime and Port Authority of Singapore
+    <br> Deputy Director (Transformation & Services) <br> Transformation Office<br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Ms Ho Hui Ting Melissa</strong>
