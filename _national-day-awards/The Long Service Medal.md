@@ -598,7 +598,7 @@ Land Transport Authority</p>
 </p>
 <p>
   <strong>Mr Ng Swee Kiang Raymond</strong><br>
-  Deputy Manager, Road Works Regulations & Licensing, Traffic & Road Operations<br>
+  Manager<br> Traffic & Road Operations <br>
   Land Transport Authority
 </p>
 <p>
