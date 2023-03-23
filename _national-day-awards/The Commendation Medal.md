@@ -26,11 +26,11 @@ description: ""
   </p>
   <p>
     <b>Mr Naresh Kumar Dhalamal Tarani</b>
-    <br> Deputy Head (Air Traffic Services Regulation), Aerodrome and Air Navigation Services Regulation <br> Civil Aviation Authority of Singapore
+    <br> Head (Air Traffic Control Licensing) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Mr Chong Seow Kwuang Alex</b>
-    <br> Deputy Director (Unmanned Systems Operations and Readiness), Unmanned Systems Operations and Readiness <br> Civil Aviation Authority of Singapore
+    <br> Deputy Director (Unmanned Systems Operations and Readiness) / Head (Operations Command and Control Centre) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Ms Yew Wui Wah Kris</b>
