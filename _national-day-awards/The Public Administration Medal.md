@@ -86,10 +86,10 @@ description: ""
   </p>
   <p>
     <b>Mr Zailani Bin Mohamed Idris</b>
-    <br> Deputy Director, Trackwork <br> Trackwork, Rail (Electrical &amp; Mechanical) <br> Land Transport Authority
+    <br> Deputy Director, Trackwork <br> Rail (Electrical & Mechanical) <br> Land Transport Authority
   </p>
   <p>
     <b>Mr Tay Yeow Min</b>
-    <br> Assistant Director (Maritime Human Capital) <br> ITTD, Maritime Human Capital <br> Maritime and Port Authority of Singapore
+    <br> Deputy Director (Maritime Human Capital) <br> Innovation, Technology & Talent Development <br> Maritime and Port Authority of Singapore
   </p>
 </center>
