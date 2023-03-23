@@ -102,7 +102,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Lye Yew Hwa</strong>
-    <br> Principal Manager, Systems Integration <br> Rail / Road Systems Engineering <br> Land Transport Authority
+    <br> Principal Manager <br> Rail / Road Systems Engineering <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Chua Han Hua</strong>
