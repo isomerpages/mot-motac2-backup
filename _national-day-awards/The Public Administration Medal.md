@@ -70,7 +70,7 @@ description: ""
   </p>
   <p>
     <b>Ms Satwinder Kaur d/o Karam Singh</b>
-    <br> Deputy Director (Corporate Communications), <br> Corporate Communications <br> Civil Aviation Authority of Singapore
+    <br> Deputy Director (Corporate Communications) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Mr Ang Mau Koon</b>
