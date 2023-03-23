@@ -74,11 +74,11 @@ description: ""
   </p>
   <p>
     <b>Mr Ang Mau Koon</b>
-    <br> 2 Deputy Director, North South Corridor (Civil 1), 2 North-South <br> Corridor (Civil 1), North-South Corridor <br> Land Transport Authority
+    <br>2 Deputy Director, North South Corridor (Civil 1) <br>North-South Corridor <br> Land Transport Authority
   </p>
   <p>
     <b>Mr Goh Boon Leng</b>
-    <br> Deputy Director, System Development, <br> System Development, Rail / Road Systems Engineering <br> Land Transport Authority
+    <br> Deputy Director, System Development <br>Rail / Road Systems Engineering <br> Land Transport Authority
   </p>
   <p>
     <b>Mr Ricardo Wang Huan Ran</b>
