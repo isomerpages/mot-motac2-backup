@@ -660,7 +660,7 @@ Land Transport Authority</p>
 <p><strong>Ms Saedah Bte Mohd Salim</strong><br>Principal Executive, Operations, Vehicle Licensing, Vehicle Services<br>Land Transport Authority</p>
 <p><strong>Mr How Kiam Hong</strong><br>Assistant Manager, Investigations, General Investigations & Intelligence, Vehicle Services<br>Land Transport Authority</p>
 <p><strong>Mr Chan Seong Ngai Eric</strong><br>Deputy Manager, Registration, Vehicle Quota & Registration, Vehicle Services<br>Land Transport Authority</p>
-<p><strong>Mr Song Tiancheng</strong><br>Deputy Director (Engineering), Engineering & Project Management, EPM Dir's Office<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Song Tiancheng</strong><br>Director (Engineering & Port Planning)<br> Engineering & Project Management <br> Maritime and Port Authority of Singapore</p>
 <p><strong>Mr Ting Cheng Heong Thomas</strong><br>Chief Technology Officer / Deputy Director (ITTD), Innovation, Tech & Talent Development, ITTD Dir's Office<br>Maritime and Port Authority of Singapore</p>
 <p><strong>Mr Lee Weng Choy</strong><br>Deputy Chief Hydrographer, Hydrographic Survey<br>Maritime and Port Authority of Singapore</p>
 <p><strong>Mr Chen Kit Jam</strong><br>Deputy Director (Shipping)/Deputy Director (Marine) Shipping, Shipping Dir's Office<br>Maritime and Port Authority of Singapore</p>
