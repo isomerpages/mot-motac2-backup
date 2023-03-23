@@ -106,7 +106,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Chua Han Hua</strong>
-    <br> Senior Project Manager <br> Road Construction 2 (Civil 1) <br> Road &amp; Commuter Infrastructure Development <br> Land Transport Authority
+    <br> Senior Project Manager <br> Road & Commuter Infrastructure Development <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Emmanuel Alex Wong Kok Wei</strong>
