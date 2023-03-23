@@ -58,7 +58,7 @@ description: ""
   </p>
   <p>
     <strong>Dr Ganesan s/o Subramaniam</strong>
-    <br> Senior Manager, Policy <br> Rail Financing, Investment &amp; Governance, Policy &amp; Planning <br> Land Transport Authority
+    <br> Senior Manager, Policy <br> Policy & Planning <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Chan Hin Phung</strong>
