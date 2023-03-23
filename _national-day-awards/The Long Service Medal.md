@@ -374,7 +374,7 @@ Project Manager<br> Rail (Electrical & Mechanical) <br>
 Land Transport Authority</p>
 
 <p><strong>Mr Ng Ngin Khwang</strong><br>
-Deputy Director, Rail Services Rail Services 6, Rail (Electrical &amp; Mechanical)<br>
+6 Deputy Director, Rail Services Rail Services 6<br>
 Land Transport Authority</p>
 
 <p><strong>Mr Yap Eng Hock</strong><br>
@@ -474,17 +474,17 @@ Land Transport Authority</p>
 Deputy Director, Contracts, Road &amp; Commuter Facility, Contracts, Road &amp; Commuter Facility, Safety & Contracts<br>
 Land Transport Authority</p>
 <p><strong>Ms Normah Bte Saini</strong><br>
-Senior Admin Executive, Contracts (Civil 3), Safety &amp; Contracts</p>
+Senior Admin Executive, Contracts (Civil 3), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Lee Chee Hiung</strong><br>
-Assistant Procurement Manager, Tender &amp; Procurement, Safety &amp; Contracts</p>
+Assistant Procurement Manager, Tender &amp; Procurement, Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Sim Wee Tiong</strong><br>
-Deputy Director, Cost Control (Electrical &amp; Mechanical), Cost Control (E&amp;M), Safety &amp; Contracts</p>
+Deputy Director, Cost Control (Electrical &amp; Mechanical), Cost Control (E&amp;M), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Mohamad Nor Bin Bachok</strong><br>
-Assistant Manager, Contracts, Contracts (IT &amp; Other Systems), Safety &amp; Contracts</p>
+Assistant Manager, Contracts, Contracts (IT &amp; Other Systems), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Tan Wee Meng</strong><br>
-Senior Manager, Contracts, Contracts (Civil 3), Safety &amp; Contracts</p>
+Deputy Director, Contracts (Civil 4) <br> Safety & Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Misran Bin Walet</strong><br>
-Deputy Manager, Contracts, 2 Contracts (Rail Core Systems), Safety &amp; Contracts</p>
+Deputy Manager, Contracts, 2 Contracts (Rail Core Systems), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Ang Yong Tong</strong><br>
 Principal Manager, Programme Planning, 1 Programme Planning, Safety & Contracts<br>
 Land Transport Authority</p>
