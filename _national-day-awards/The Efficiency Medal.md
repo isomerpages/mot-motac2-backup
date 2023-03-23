@@ -126,7 +126,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Muhammad Nor Azmi Bin Aman</strong>
-    <br> Senior Technical Executive, Hydrographics, Aids to Navigation <br> Maritime and Port Authority of Singapore
+    <br> Principal Technical Executive (Aids to Navigation) <br> Hydrographic <br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Ms Winnie Chen Lianhan</strong>
