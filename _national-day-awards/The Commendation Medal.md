@@ -66,11 +66,11 @@ description: ""
   </p>
   <p>
     <strong>Mr Sim Siang Boon</strong>
-    <br> Principal Manager <br> Track &amp; Alignment, Infrastructure Design &amp; Engineering <br> Land Transport Authority
+    <br> Principal Manager <br> Infrastructure Design & Engineering <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Ng Jin Teik</strong>
-    <br> 2 Deputy Director, Rail Expansion (Civil Team 3) <br> 2 Rail Expansion (Civil Team 3), Rail Infrastructure &amp; Expansion
+    <br> 2 Deputy Director, Rail Expansion (Civil Team 3) <br> Rail Infrastructure & Expansion <br> Land Transport Authority
   </p>
   <p>
     <strong>Ms Lye Mei Ying Cecilia</strong>
