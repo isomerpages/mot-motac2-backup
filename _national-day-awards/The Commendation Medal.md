@@ -122,7 +122,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Lim Jun Ming</strong>
-    <br> Assistant Director (International) <br> Maritime and Port Authority of Singapore
+    <br> Deputy Director (International) <br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Mr Seow Jian Xue James</strong>
