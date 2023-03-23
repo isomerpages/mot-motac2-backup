@@ -94,7 +94,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Yau Kok Ken</strong>
-    <br> Principal Project Manager <br> Network Renewal (Systems) 1 <br> Rail (Electrical &amp; Mechanical) <br> Land Transport Authority
+    <br> Principal Project Manager <br> Rail (Electrical & Mechanical) <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Seah Chong Beng</strong>
