@@ -102,7 +102,7 @@ description: ""
 </p>
 <p>
   <b>Mr Ng Hai Yim</b>
-  <br>Manager, Survey, Infrastructure Design & Engineering
+  <br>Senior Manager, Survey <br> Infrastructure Design & Engineering
   <br>Land Transport Authority
 </p>
 <p>
@@ -295,7 +295,7 @@ Senior Project Engineer, 1 Rail Expansion (Civil Team 1), Rail Infrastructure &a
 Land Transport Authority</p>
 
 <p><strong>Mr Lee Swee Kwang</strong><br>
-Deputy Project Manager, 2 Jurong Region Line (Civil Team 1), Rail Infrastructure &amp; Expansion<br>
+Project Manager <br> Rail Infrastructure & Expansion <br>
 Land Transport</p>
 <p>
   <strong>Mr Nurhakim Bin Hudri</strong><br />
@@ -370,7 +370,7 @@ Land Transport</p>
 </p>
 
 <p><strong>Mr Tio Chuan Aik</strong><br>
-Deputy Project Manager, Network Renewal (Systems) 3, Rail (Electrical &amp; Mechanical)<br>
+Project Manager<br> Rail (Electrical & Mechanical) <br>
 Land Transport Authority</p>
 
 <p><strong>Mr Ng Ngin Khwang</strong><br>
