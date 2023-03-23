@@ -118,7 +118,7 @@ description: ""
   </p>
   <p>
     <strong>Ms Oh Si Yun Jasmine</strong>
-    <br> Deputy Manager, Traffic Schemes Design <br> Development, Traffic &amp; Road Operations <br> Land Transport Authority
+    <br> Deputy Manager <br> Traffic & Road Operations <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Lim Jun Ming</strong>
