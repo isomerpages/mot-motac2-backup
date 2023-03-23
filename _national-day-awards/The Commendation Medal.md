@@ -38,7 +38,7 @@ description: ""
   </p>
   <p>
     <b>Mr Gao Shu</b>
-    <br> Head (Navigation and Meteorology), Aeronautical Telecommunications and Engineering <br> Civil Aviation Authority of Singapore
+    <br>Head (Navigation) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Mr Ying Weng Kit</b>
@@ -50,7 +50,7 @@ description: ""
   </p>
   <p>
     <b>Mr Goh Lian Wee</b>
-    <br> Senior Manager, Contracts (E&amp;M Services), Safety &amp; Contracts Land Transport Authority
+    <br> Senior Manager, Contracts <br> Safety & Contracts <br>  Land Transport Authority
   </p>
   <p>
     <strong>Mr Lee Hoon Hwee Steven</strong>
