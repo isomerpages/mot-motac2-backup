@@ -3,7 +3,6 @@ title: A Digital first Strategy
 permalink: /mi-awards/im10/
 description: ""
 ---
-
 ![](/images/hero.png)
 
 ![](/images/MI/IM10/e-Panel_iM10_v01_Individual%20Award%20Contents%201.png)
