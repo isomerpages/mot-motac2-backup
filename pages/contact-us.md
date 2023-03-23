@@ -10,7 +10,7 @@ locations:
       - Singapore 119963
     operating_hours: []
     maps_link: https://goo.gl/maps/JgWLmcBh3uW2zqYC9
-    title: Main Building
+    title: Main Office
 contacts:
   - content:
       - phone: 1 800 278 3500
