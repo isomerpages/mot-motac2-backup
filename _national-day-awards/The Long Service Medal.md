@@ -663,6 +663,6 @@ Land Transport Authority</p>
 <p><strong>Mr Song Tiancheng</strong><br>Director (Engineering & Port Planning)<br> Engineering & Project Management <br> Maritime and Port Authority of Singapore</p>
 <p><strong>Mr Ting Cheng Heong Thomas</strong><br>Director (Technology & Innovation)/Chief Technology Officer<br>Maritime and Port Authority of Singapore</p>
 <p><strong>Mr Lee Weng Choy</strong><br>Deputy Chief Hydrographer, Hydrographic Survey<br>Maritime and Port Authority of Singapore</p>
-<p><strong>Mr Chen Kit Jam</strong><br>Deputy Director (Shipping)/Deputy Director (Marine) Shipping, Shipping Dir's Office<br>Maritime and Port Authority of Singapore</p>
-<p><strong>Ms Emily Shalawati Bte Sihab</strong><br>Senior Manager (Seafarers Management), Shipping Seafarers Management<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Chen Kit Jam</strong><br>Senior Deputy Director (Shipping)/Deputy Director (Marine)<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Ms Emily Shalawati Bte Sihab</strong><br>Assistant Director (Seafarers Management) <br> Shipping <br>Maritime and Port Authority of Singapore</p>
 </center>
