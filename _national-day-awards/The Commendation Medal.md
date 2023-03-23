@@ -78,7 +78,7 @@ description: ""
   </p>
   <p>
     <strong>Ms Ng Hui Lin</strong>
-    <br> Senior Manager, Human Resource <br> Human Resource <br> Land Transport Authority
+    <br> SCND to CAAS as Assistant Director (Capability Development) <br> Human Resource <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Hermanjit Singh s/o Sarjit Singh</strong>
