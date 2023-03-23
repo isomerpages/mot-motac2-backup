@@ -86,7 +86,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Massimo Marotta</strong>
-    <br> Principal Project Manager <br> 2 Tunnelling Rail <br> Infrastructure &amp; Expansion
+    <br> 4 Deputy Director, Tunnelling <br> Rail Infrastructure & Expansion <br> Infrastructure &amp; Expansion
   </p>
   <p>
     <strong>Ms Ho Chin Ling</strong>
