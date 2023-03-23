@@ -549,8 +549,8 @@ Coast & Cross Island Lines<br>
 Land Transport Authority</p>
 
 <p><strong>Mr Chua Chee Meng</strong><br>
-Deputy Project Manager, Thomson-East Coast Line (Civil Team 5), Thomson-East<br>
-Coast & Cross Island Lines<br>
+Project Manager<br>
+Thomson-East Coast & Cross Island Lines<br>
 Land Transport Authority</p>
 
 <p><strong>Mr Teo Tiong Eng</strong><br>
