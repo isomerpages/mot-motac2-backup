@@ -102,7 +102,7 @@ description: ""
 </p>
 <p>
   <b>Mr Ng Hai Yim</b>
-  <br>Manager, Survey, Infrastructure Design & Engineering
+  <br>Senior Manager, Survey <br> Infrastructure Design & Engineering
   <br>Land Transport Authority
 </p>
 <p>
@@ -295,7 +295,7 @@ Senior Project Engineer, 1 Rail Expansion (Civil Team 1), Rail Infrastructure &a
 Land Transport Authority</p>
 
 <p><strong>Mr Lee Swee Kwang</strong><br>
-Deputy Project Manager, 2 Jurong Region Line (Civil Team 1), Rail Infrastructure &amp; Expansion<br>
+Project Manager <br> Rail Infrastructure & Expansion <br>
 Land Transport</p>
 <p>
   <strong>Mr Nurhakim Bin Hudri</strong><br />
@@ -370,11 +370,11 @@ Land Transport</p>
 </p>
 
 <p><strong>Mr Tio Chuan Aik</strong><br>
-Deputy Project Manager, Network Renewal (Systems) 3, Rail (Electrical &amp; Mechanical)<br>
+Project Manager<br> Rail (Electrical & Mechanical) <br>
 Land Transport Authority</p>
 
 <p><strong>Mr Ng Ngin Khwang</strong><br>
-Deputy Director, Rail Services Rail Services 6, Rail (Electrical &amp; Mechanical)<br>
+6 Deputy Director, Rail Services Rail Services 6<br>
 Land Transport Authority</p>
 
 <p><strong>Mr Yap Eng Hock</strong><br>
@@ -474,17 +474,17 @@ Land Transport Authority</p>
 Deputy Director, Contracts, Road &amp; Commuter Facility, Contracts, Road &amp; Commuter Facility, Safety & Contracts<br>
 Land Transport Authority</p>
 <p><strong>Ms Normah Bte Saini</strong><br>
-Senior Admin Executive, Contracts (Civil 3), Safety &amp; Contracts</p>
+Senior Admin Executive, Contracts (Civil 3), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Lee Chee Hiung</strong><br>
-Assistant Procurement Manager, Tender &amp; Procurement, Safety &amp; Contracts</p>
+Assistant Procurement Manager, Tender &amp; Procurement, Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Sim Wee Tiong</strong><br>
-Deputy Director, Cost Control (Electrical &amp; Mechanical), Cost Control (E&amp;M), Safety &amp; Contracts</p>
+Deputy Director, Cost Control (Electrical &amp; Mechanical), Cost Control (E&amp;M), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Mohamad Nor Bin Bachok</strong><br>
-Assistant Manager, Contracts, Contracts (IT &amp; Other Systems), Safety &amp; Contracts</p>
+Assistant Manager, Contracts, Contracts (IT &amp; Other Systems), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Tan Wee Meng</strong><br>
-Senior Manager, Contracts, Contracts (Civil 3), Safety &amp; Contracts</p>
+Deputy Director, Contracts (Civil 4) <br> Safety & Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Misran Bin Walet</strong><br>
-Deputy Manager, Contracts, 2 Contracts (Rail Core Systems), Safety &amp; Contracts</p>
+Deputy Manager, Contracts, 2 Contracts (Rail Core Systems), Safety &amp; Contracts <br>Land Transport Authority</p>
 <p><strong>Mr Ang Yong Tong</strong><br>
 Principal Manager, Programme Planning, 1 Programme Planning, Safety & Contracts<br>
 Land Transport Authority</p>
@@ -549,8 +549,8 @@ Coast & Cross Island Lines<br>
 Land Transport Authority</p>
 
 <p><strong>Mr Chua Chee Meng</strong><br>
-Deputy Project Manager, Thomson-East Coast Line (Civil Team 5), Thomson-East<br>
-Coast & Cross Island Lines<br>
+Project Manager<br>
+Thomson-East Coast & Cross Island Lines<br>
 Land Transport Authority</p>
 
 <p><strong>Mr Teo Tiong Eng</strong><br>
@@ -598,7 +598,7 @@ Land Transport Authority</p>
 </p>
 <p>
   <strong>Mr Ng Swee Kiang Raymond</strong><br>
-  Deputy Manager, Road Works Regulations & Licensing, Traffic & Road Operations<br>
+  Manager<br> Traffic & Road Operations <br>
   Land Transport Authority
 </p>
 <p>
@@ -660,9 +660,9 @@ Land Transport Authority</p>
 <p><strong>Ms Saedah Bte Mohd Salim</strong><br>Principal Executive, Operations, Vehicle Licensing, Vehicle Services<br>Land Transport Authority</p>
 <p><strong>Mr How Kiam Hong</strong><br>Assistant Manager, Investigations, General Investigations & Intelligence, Vehicle Services<br>Land Transport Authority</p>
 <p><strong>Mr Chan Seong Ngai Eric</strong><br>Deputy Manager, Registration, Vehicle Quota & Registration, Vehicle Services<br>Land Transport Authority</p>
-<p><strong>Mr Song Tiancheng</strong><br>Deputy Director (Engineering), Engineering & Project Management, EPM Dir's Office<br>Maritime and Port Authority of Singapore</p>
-<p><strong>Mr Ting Cheng Heong Thomas</strong><br>Chief Technology Officer / Deputy Director (ITTD), Innovation, Tech & Talent Development, ITTD Dir's Office<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Song Tiancheng</strong><br>Director (Engineering & Port Planning)<br> Engineering & Project Management <br> Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Ting Cheng Heong Thomas</strong><br>Director (Technology & Innovation)/Chief Technology Officer<br>Maritime and Port Authority of Singapore</p>
 <p><strong>Mr Lee Weng Choy</strong><br>Deputy Chief Hydrographer, Hydrographic Survey<br>Maritime and Port Authority of Singapore</p>
-<p><strong>Mr Chen Kit Jam</strong><br>Deputy Director (Shipping)/Deputy Director (Marine) Shipping, Shipping Dir's Office<br>Maritime and Port Authority of Singapore</p>
-<p><strong>Ms Emily Shalawati Bte Sihab</strong><br>Senior Manager (Seafarers Management), Shipping Seafarers Management<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Mr Chen Kit Jam</strong><br>Senior Deputy Director (Shipping)/Deputy Director (Marine)<br>Maritime and Port Authority of Singapore</p>
+<p><strong>Ms Emily Shalawati Bte Sihab</strong><br>Assistant Director (Seafarers Management) <br> Shipping <br>Maritime and Port Authority of Singapore</p>
 </center>

@@ -26,11 +26,11 @@ description: ""
   </p>
   <p>
     <b>Mr Naresh Kumar Dhalamal Tarani</b>
-    <br> Deputy Head (Air Traffic Services Regulation), Aerodrome and Air Navigation Services Regulation <br> Civil Aviation Authority of Singapore
+    <br> Head (Air Traffic Control Licensing) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Mr Chong Seow Kwuang Alex</b>
-    <br> Deputy Director (Unmanned Systems Operations and Readiness), Unmanned Systems Operations and Readiness <br> Civil Aviation Authority of Singapore
+    <br> Deputy Director (Unmanned Systems Operations and Readiness) / Head (Operations Command and Control Centre) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Ms Yew Wui Wah Kris</b>
@@ -38,7 +38,7 @@ description: ""
   </p>
   <p>
     <b>Mr Gao Shu</b>
-    <br> Head (Navigation and Meteorology), Aeronautical Telecommunications and Engineering <br> Civil Aviation Authority of Singapore
+    <br>Head (Navigation) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Mr Ying Weng Kit</b>
@@ -50,7 +50,7 @@ description: ""
   </p>
   <p>
     <b>Mr Goh Lian Wee</b>
-    <br> Senior Manager, Contracts (E&amp;M Services), Safety &amp; Contracts Land Transport Authority
+    <br> Senior Manager, Contracts <br> Safety & Contracts <br>  Land Transport Authority
   </p>
   <p>
     <strong>Mr Lee Hoon Hwee Steven</strong>
@@ -58,7 +58,7 @@ description: ""
   </p>
   <p>
     <strong>Dr Ganesan s/o Subramaniam</strong>
-    <br> Senior Manager, Policy <br> Rail Financing, Investment &amp; Governance, Policy &amp; Planning <br> Land Transport Authority
+    <br> Senior Manager, Policy <br> Policy & Planning <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Chan Hin Phung</strong>
@@ -66,11 +66,11 @@ description: ""
   </p>
   <p>
     <strong>Mr Sim Siang Boon</strong>
-    <br> Principal Manager <br> Track &amp; Alignment, Infrastructure Design &amp; Engineering <br> Land Transport Authority
+    <br> Principal Manager <br> Infrastructure Design & Engineering <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Ng Jin Teik</strong>
-    <br> 2 Deputy Director, Rail Expansion (Civil Team 3) <br> 2 Rail Expansion (Civil Team 3), Rail Infrastructure &amp; Expansion
+    <br> 2 Deputy Director, Rail Expansion (Civil Team 3) <br> Rail Infrastructure & Expansion <br> Land Transport Authority
   </p>
   <p>
     <strong>Ms Lye Mei Ying Cecilia</strong>
@@ -78,7 +78,7 @@ description: ""
   </p>
   <p>
     <strong>Ms Ng Hui Lin</strong>
-    <br> Senior Manager, Human Resource <br> Human Resource <br> Land Transport Authority
+    <br> SCND to CAAS as Assistant Director (Capability Development) <br> Human Resource <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Hermanjit Singh s/o Sarjit Singh</strong>
@@ -86,7 +86,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Massimo Marotta</strong>
-    <br> Principal Project Manager <br> 2 Tunnelling Rail <br> Infrastructure &amp; Expansion
+    <br> 4 Deputy Director, Tunnelling <br> Rail Infrastructure & Expansion <br> Infrastructure &amp; Expansion
   </p>
   <p>
     <strong>Ms Ho Chin Ling</strong>
@@ -94,7 +94,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Yau Kok Ken</strong>
-    <br> Principal Project Manager <br> Network Renewal (Systems) 1 <br> Rail (Electrical &amp; Mechanical) <br> Land Transport Authority
+    <br> Principal Project Manager <br> Rail (Electrical & Mechanical) <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Seah Chong Beng</strong>
@@ -102,11 +102,11 @@ description: ""
   </p>
   <p>
     <strong>Mr Lye Yew Hwa</strong>
-    <br> Principal Manager, Systems Integration <br> Rail / Road Systems Engineering <br> Land Transport Authority
+    <br> Principal Manager <br> Rail / Road Systems Engineering <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Chua Han Hua</strong>
-    <br> Senior Project Manager <br> Road Construction 2 (Civil 1) <br> Road &amp; Commuter Infrastructure Development <br> Land Transport Authority
+    <br> Senior Project Manager <br> Road & Commuter Infrastructure Development <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Emmanuel Alex Wong Kok Wei</strong>
@@ -118,19 +118,19 @@ description: ""
   </p>
   <p>
     <strong>Ms Oh Si Yun Jasmine</strong>
-    <br> Deputy Manager, Traffic Schemes Design <br> Development, Traffic &amp; Road Operations <br> Land Transport Authority
+    <br> Deputy Manager <br> Traffic & Road Operations <br> Land Transport Authority
   </p>
   <p>
     <strong>Mr Lim Jun Ming</strong>
-    <br> Assistant Director (International) <br> Maritime and Port Authority of Singapore
+    <br> Deputy Director (International) <br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Mr Seow Jian Xue James</strong>
-    <br> Assistant Director (Transformation &amp; Service) <br> Transformation Office, Transformation &amp; OD <br> Maritime and Port Authority of Singapore
+    <br> Deputy Director (Transformation & Services) <br> Transformation Office<br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Ms Ho Hui Ting Melissa</strong>
-    <br> Senior Assistant Director (Strategy &amp; Planning) <br> Seconded to Ministry of Trade and Industry <br> Maritime and Port Authority of Singapore
+    <br> Seconded to Ministry of Trade and Industry <br> Senior Assistant Director (Strategy & Planning)<br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Ms Mardiana Binte Rahmad</strong>

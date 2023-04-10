@@ -2,6 +2,7 @@ collections:
   mi-awards:
     output: true
     order:
+      - Min Inno  Award Video.md
       - Research & Dvlpmt of ATM Twin.md
       - Restoring SG Air Connectivity.md
       - User centric Commuter Infra.md

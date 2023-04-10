@@ -12,7 +12,7 @@ description: ""
 <center>
   <p>
     <b>Mr Tay Tiang Guan</b>
-    <br>1 Deputy Director-General / Chief Risk Officer <br> Cluster Heads and Group Heads Office <br> Civil Aviation Authority of Singapore
+    <br>1 Deputy Director-General <br> Civil Aviation Authority of Singapore
   </p>
 </center>
 <center>
@@ -32,7 +32,7 @@ description: ""
 <center>
   <p>
     <b>Ms Margaret Tan Puay Kuen</b>
-    <br> Director (Airport Operations Regulation and Aviation Security) <br> Airport Operations Regulation and Aviation Security <br> Civil Aviation Authority of Singapore
+    <br>Former Director (Airport Operations Regulation and Aviation Security) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Mr Hermizan Bin Mohamed Jumari</b>
@@ -48,7 +48,7 @@ description: ""
   </p>
   <p>
     <b>Mr Tan Hoe Soon</b>
-    <br> Assistant Chief Executive (Corp) <br> Chairman/CE's Office Chairman/CE's Office <br> Maritime and Port Authority of Singapore
+    <br> Assistant Chief Executive (Corporate & Strategy)/ Chief Risk Officer <br> Maritime and Port Authority of Singapore
   </p>
 </center>
 <center>
@@ -66,19 +66,19 @@ description: ""
   </p>
   <p>
     <b>Mr Michael Pang Tze Leong</b>
-    <br> Deputy Director (Aviation Services), Flight <br> Standards <br> Civil Aviation Authority of Singapore
+    <br> Deputy Director (Aviation Services) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Ms Satwinder Kaur d/o Karam Singh</b>
-    <br> Deputy Director (Corporate Communications), <br> Corporate Communications <br> Civil Aviation Authority of Singapore
+    <br> Deputy Director (Corporate Communications) <br> Civil Aviation Authority of Singapore
   </p>
   <p>
     <b>Mr Ang Mau Koon</b>
-    <br> 2 Deputy Director, North South Corridor (Civil 1), 2 North-South <br> Corridor (Civil 1), North-South Corridor <br> Land Transport Authority
+    <br>2 Deputy Director, North South Corridor (Civil 1) <br>North-South Corridor <br> Land Transport Authority
   </p>
   <p>
     <b>Mr Goh Boon Leng</b>
-    <br> Deputy Director, System Development, <br> System Development, Rail / Road Systems Engineering <br> Land Transport Authority
+    <br> Deputy Director, System Development <br>Rail / Road Systems Engineering <br> Land Transport Authority
   </p>
   <p>
     <b>Mr Ricardo Wang Huan Ran</b>
@@ -86,10 +86,10 @@ description: ""
   </p>
   <p>
     <b>Mr Zailani Bin Mohamed Idris</b>
-    <br> Deputy Director, Trackwork <br> Trackwork, Rail (Electrical &amp; Mechanical) <br> Land Transport Authority
+    <br> Deputy Director, Trackwork <br> Rail (Electrical & Mechanical) <br> Land Transport Authority
   </p>
   <p>
     <b>Mr Tay Yeow Min</b>
-    <br> Assistant Director (Maritime Human Capital) <br> ITTD, Maritime Human Capital <br> Maritime and Port Authority of Singapore
+    <br> Deputy Director (Maritime Human Capital) <br> Innovation, Technology & Talent Development <br> Maritime and Port Authority of Singapore
   </p>
 </center>

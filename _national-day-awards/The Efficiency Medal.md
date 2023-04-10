@@ -62,7 +62,7 @@ description: ""
   </p>
   <p>
     <strong>Mr Zuraidi Bin Mohamed Saifollah</strong>
-    <br> Senior Transport Planner <br> 2 Local Planning (North), Policy &amp; Planning <br> Land Transport Authority
+    <br> Senior Transport Scientist <br> Policy & Planning <br> Land Transport Authority
   </p>
   <p>
     <strong>Mdm Khong Lye Peng</strong>
@@ -118,15 +118,15 @@ description: ""
   </p>
   <p>
     <strong>Mr Cheong Sin Huat</strong>
-    <br> Senior Watch Supervisor, <br> Operations &amp; Marine Services, Vessel Traffic Management <br> Maritime and Port Authority of Singapore
+    <br> Senior Watch Supervisor (Vessel Traffic Management) <br> Operations & Marine Services <br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Mr Anwari Bin Ahmad</strong>
-    <br> Technical Executive <br> Engineering &amp; Project Management, Space Management <br> Maritime and Port Authority of Singapore
+    <br> Senior Technical Executive (Space Management) <br> Engineering & Project Management <br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Mr Muhammad Nor Azmi Bin Aman</strong>
-    <br> Senior Technical Executive, Hydrographics, Aids to Navigation <br> Maritime and Port Authority of Singapore
+    <br> Principal Technical Executive (Aids to Navigation) <br> Hydrographic <br> Maritime and Port Authority of Singapore
   </p>
   <p>
     <strong>Ms Winnie Chen Lianhan</strong>
