@@ -13,5 +13,5 @@ variant: markdown
 <center>
   <p>
     <b>Mr Lee Fook Sun</b>
-  <br>Chairman, Ensign InfoSecurity Deputy Chairman, SMRT Corporation Ltd</p>
+  <br>Chairman, Ensign InfoSecurity<br>Deputy Chairman, SMRT Corporation Ltd</p>
 </center>
