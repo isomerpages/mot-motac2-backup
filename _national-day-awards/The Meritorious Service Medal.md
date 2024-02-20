@@ -2,6 +2,7 @@
 title: The Meritorious Service Medal
 permalink: /national-day-awards/meritorious-service/
 description: ""
+variant: markdown
 ---
 ![](/images/hero.png)
 
@@ -11,6 +12,6 @@ description: ""
 </center>
 <center>
   <p>
-    <b>Mr Seah Moon Ming</b>
-  <br>Chairman, SMRT Corporation Ltd.</p>
+    <b>Mr Lee Fook Sun</b>
+  <br>Chairman, Ensign InfoSecurity Deputy Chairman, SMRT Corporation Ltd</p>
 </center>
