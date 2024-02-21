@@ -2,6 +2,7 @@
 title: The Public Service Star Medal
 permalink: /national-day-awards/public-service-star/
 description: ""
+variant: markdown
 ---
 ![](/images/hero.png)
 
@@ -11,6 +12,7 @@ description: ""
 </center>
 <center>
   <p>
-    <b>Mr Michael Chin Yong Kok</b>
-  <br>Member, Land Transport Authority Board</p>
+    <b>Ms Lee Huay Leng</b>
+    <br>Member, Public Transport Council
+  </p>
 </center>
