@@ -11,7 +11,5 @@ variant: markdown
   <h3>[Pingat Jasa Gemilang]</h3>
 </center>
 <center>
-  <p>
-    <b>Mr Lee Fook Sun</b>
-  <br>Chairman, Ensign InfoSecurity<br>Deputy Chairman, SMRT Corporation Ltd</p>
+
 </center>
