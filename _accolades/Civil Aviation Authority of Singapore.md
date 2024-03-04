@@ -22,7 +22,10 @@ variant: markdown
       </div>
   </div>
 </div>
-
+<center>
+	<p><b>Community Chest Award –  SHARE Platinum and Charity Bronze </b></p>
+	<p>The Charity Awards are presented to organisations and individuals who have made significant donations to Community Chest. These donations include outright donations, funds raised from events and contributions through SHARE, Community Chest’s monthly giving programme.</p>
+</center>
 
 
 
