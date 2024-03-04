@@ -62,3 +62,13 @@ variant: markdown
 	<p>Singapore Aviation Academy (SAA) received the “Highest Number of Trainees – Delivery of Member-ICAO Training Packages” award from ICAO at the TRAINAIR PLUS Programme Recognition Award Ceremony held in conjunction with the ICAO Global Implementation Support Symposium in Seoul, Republic of Korea, on 31 May 2023. This award is in recognition of SAA delivering 6 runs of self-developed ICAO courses in 2022, reaching out to 80 trainees from more than 40 countries.</p>
 
 </center>
+
+
+
+![](/images/ACCOLADES/CAAS/Platinium_Training.jpg)
+
+<center>
+	<p><b>Platinum Training Centre of Excellence  </b></p>
+	<p>This award is given to TRAINAIR PLUS Programme (TPP) Members who are playing a leading role in a region or globally, focusing on regulatory training, and actively supporting ICAO in its capacity-building efforts and effectively assisting ICAO Member States in the implementation of the ICAO Standards and Recommended Practices (SARPs) via the extensive delivery of ICAO training.</p>
+
+</center>
