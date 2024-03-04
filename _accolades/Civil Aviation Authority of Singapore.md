@@ -10,18 +10,8 @@ variant: markdown
 	<h2>Civil Aviation Authority of Singapore</h2>
 </center>
 
-<div class="row">
-  <div class="col is-6">
-      <div class="speaker-image-wrapper">
-        <img class="img-fluid mb-3" src="/images/ACCOLADES/CAAS/CAAS___Share_Platinum.png" alt="CAAS___Share_Platinum">
-      </div>
-  </div>
-  <div class="col is-6">
-      <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/CAAS/CAAS___Charity_Bronze.png" alt="CAAS___Charity_Bronze">
-      </div>
-  </div>
-</div>
+![](/images/ACCOLADES/CAAS/caas_award.png)
+
 <center>
 	<p><b>Community Chest Award –  SHARE Platinum and Charity Bronze </b></p>
 	<p>The Charity Awards are presented to organisations and individuals who have made significant donations to Community Chest. These donations include outright donations, funds raised from events and contributions through SHARE, Community Chest’s monthly giving programme.</p>
