@@ -35,30 +35,16 @@ variant: markdown
 	<p>It is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p>
 </center>
 
-![](/images/ACCOLADES/MOT/Public%20Sector%20Transformation.jpg)
+![](/images/ACCOLADES/MOT/National_Effort_to_Electrify_Singapore_Vehicle_Population.jpg)
 
 <center>
-	<p><b>Public Sector Transformation Awards – Regulatory Excellence Award: Crew Change &nbsp;</b></p>
-	<p>The COVID Public Sector Transformation (PST) Awards recognise the efforts put in by public agencies and officers during the pandemic. The award winners were rewarded for having displayed PST traits such as agility, innovation, and service excellence.</p>
+	<p><b>Public Sector Transformation Awards – One Public Service Award: National Effort to Electrify Singapore’s Vehicle Population </b></p>
+	<p>It is an award that recognises agencies for exemplary inter-agency initiatives that have reflected a sustained and institutionalised approach to collaboration. The initiatives may be exemplary WOG efforts in: (i) service delivery, (ii) citizen engagement, (iii) regulatory review, (iv) digitalisation that achieve a transformative (not incremental) change in how things are done; or (v) innovation at the WOG level. </p>
 </center>
 
-![](/images/ACCOLADES/MOT/Public%20Sector%20Transformation%20Awards_Entry%20of%20Workers.jpg)
+![](/images/ACCOLADES/MOT/GERI_PST_Awards.jpg)
 
 <center>
-	<p><b>Public Sector Transformation Awards – Agility Award: Pilot to Facilitate Entry of Workers &nbsp;</b></p>
-	<p>The COVID Public Sector Transformation (PST) Awards recognise the efforts put in by public agencies and officers during the pandemic. The award winners were rewarded for having displayed PST traits such as agility, innovation, and service excellence.</p>
-</center>
-
-![](/images/ACCOLADES/MOT/Public%20Sector%20Transformation%20Awards_Enhanced%20SHN.jpg)
-
-<center>
-	<p><b>Public Sector Transformation Awards – One Public Service Award: Enhanced Stay Home Notice Operations &nbsp;</b></p>
-	<p>The COVID Public Sector Transformation (PST) Awards recognise the efforts put in by public agencies and officers during the pandemic. The award winners were rewarded for having displayed PST traits such as agility, innovation, and service excellence.</p>
-</center>
-
-![](/images/ACCOLADES/MOT/MHA%20Operational%20Excellence%20Award.jpg)
-
-<center>
-	<p><b>MHA Operational Excellence Award &nbsp;</b></p>
-	<p>The MHA Operational Excellence Award is presented to outstanding officers from the Home Team Departments and <b>partnering agencies </b>annually in recognition of their professionalism and proficiency while mounting keynote operations. MOT was given the award in recognition of our efforts in leading the airport bus gate operations during COVID-19.</p>
+	<p><b>Public Sector Transformation Awards – Regulatory Excellence Award: Green Economy Regulatory Initiative (GERI) </b></p>
+	<p>It is an award that recognises exemplary initiatives that have made reforms that reduce regulatory burden and cost, create value for the Public Service, and are future-ready. This could be through streamlining of existing regulations, making regulatory advances enabled by digitalisation/innovation, or through creating forward-looking regulations that facilitate industry innovations and new business models. </p>
 </center>
