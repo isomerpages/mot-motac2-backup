@@ -13,12 +13,12 @@ variant: markdown
 <div class="row">
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="images/ACCOLADES/CAAS/CAAS___Share_Platinum.png" alt="CAAS___Share_Platinum">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/CAAS/CAAS___Share_Platinum.png" alt="CAAS___Share_Platinum">
       </div>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
-        <img class="speaker-image img-fluid mb-3" src="images/ACCOLADES/CAAS/CAAS___Charity_Bronze.png" alt="CAAS___Charity_Bronze">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/CAAS/CAAS___Charity_Bronze.png" alt="CAAS___Charity_Bronze">
       </div>
   </div>
 </div>
