@@ -2,13 +2,13 @@ logo: /images/MOTAC_Show_Logo.png
 links:
   - title: HOME
     url: /motac22-23/
-  - title: PHOTO GALLERY
-    url: /gallery
+  - title: ACCOLADES
+    collection: accolades
+  - title: NATIONAL DAY AWARDS
+    collection: national-day-awards
   - title: MINISTER'S VFM AWARD
     collection: value-for-money-award
   - title: MINISTER'S INNOVATION AWARD
     collection: mi-awards
-  - title: NATIONAL DAY AWARDS
-    collection: national-day-awards
-  - title: ACCOLADES
-    collection: accolades
+  - title: PHOTO GALLERY
+    url: /gallery
