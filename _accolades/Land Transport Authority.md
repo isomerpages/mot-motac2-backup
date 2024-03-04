@@ -2,6 +2,7 @@
 title: Land Transport Authority
 permalink: /accolades/lta/
 description: ""
+variant: markdown
 ---
 ![](/images/hero.png)
 
@@ -9,24 +10,17 @@ description: ""
 	<h2>Land Transport Authority</h2>
 </center>
 
-![](/images/ACCOLADES/LTA/TOPSIS%20Awardee%20LTA.jpg)
+![](/images/ACCOLADES/LTA/1.jpg)
 
 <center>
-	<p><b>TOPSIS Award – Special Commendation  </b></p>
-	<p>TOPSIS (Threat-Oriented Person Screening Integrated System) was implemented at border checkpoints to enhance aviation and border security. LTA received a special tier of TOPSIS Award in 2022 in recognition of its support in regulating and sustaining the programme with the 4 Public Transport Operators.</p>
+	<p><b>Community Chest Award – SHARE Achiever and Charity Platinum Awards </b></p>
+	<p class="mb-1">The Community Chest Awards recognise organisations for their contributions to Community Chest.</p>
+	<p>LTA received the <strong>SHARE Achiever</strong> and <strong>Charity Platinum</strong> awards for our contributions from 1 April 2022 to 31 March 2023. With 98% of LTA employees enrolled in the SHARE programme, we contributed more than $348,441 through Monthly SHARE (AIS) and outright donations in FY 22. This made us eligible for the SHARE Achiever award due to our 98% participation rate and the Charity Platinum award for our contribution of $300,000 and above.</p>
 </center>
 
 ![](/images/ACCOLADES/LTA/SDTF%20Appreciation%20Plaque.jpg)
 
 <center>
-	<p><b>Safe Distancing Taskforce (SDTF) appreciation by Head Civil Service  </b></p>
+	<p><b>Safe Distancing Taskforce (SDTF) appreciation by Head Civil Service &nbsp;</b></p>
 	<p>LTA was presented an appreciation plaque for its contribution to the Safe Distancing Taskforce in enforcing Safe Management Measures in the public transport sector, thus keeping Singapore and Singaporeans safe during the Covid-19 pandemic.</p>
-</center>
-
-![](/images/ACCOLADES/LTA/Charity%20Plat%20Award%202021.jpg)
-
-<center>
-	<p><b>Community Chest Award – Charity Platinum  </b></p>
-	<p>The Charity Awards recognise organisations for their holistic giving to Community Chest.</p>
-	<p> LTA was presented with the Charity Platinum Award for our contributions from 1 April 2021 to 31 March 2022, with 97% of LTA employees being enrolled in the SHARE programme and contributing more than $300,000 to ComChest.</p>
 </center>
