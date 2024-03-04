@@ -17,7 +17,23 @@ variant: markdown
 	<p>It is an annual award to honour organisations and individuals who have made significant contributions to the Community Chest via the SHARE programme, allowing them to continue funding the social service organisations they support on a regular basis. </p>
 </center>
 
-
+<div class="row">
+  <div class="col is-6">
+      <div class="speaker-image-wrapper">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_SEO.jpg" alt="Best_SEO">
+				<p class="text-center"><b>Whole of Government Digital Services Awards: Best Search Engine Optimisation </b></p>
+      </div>
+  </div>
+  <div class="col is-6">
+      <div class="speaker-image-wrapper">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_Accessibility.jpg" alt="Best_Accessibility">
+					<p class="text-center"><b>Whole of Government Digital Services Awards: Best Accessibility  </b></p>
+      </div>
+  </div>
+</div>
+<center>
+	<p>It is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p>
+</center>
 
 ![](/images/ACCOLADES/MOT/Public%20Sector%20Transformation.jpg)
 
