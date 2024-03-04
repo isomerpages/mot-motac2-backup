@@ -55,10 +55,10 @@ variant: markdown
 	<p>Air Traffic Control Officers Tan Xin Fen Audrey and Mohd Farhan bin Mohd Taib were awarded the RSAF Chief of Air Force Safety Award for the facilitation of RSAF aircraft making emergency landing in Changi Airport</p>
 </center>
 
-![](/images/ACCOLADES/CAAS/Project%20Haven.jpg)
+![](/images/ACCOLADES/CAAS/Highest_Number_of_Trainees.jpg)
 
 <center>
-	<p><b>Public Sector Transformation Awards – Agility Award: Project Haven &nbsp;</b></p>
-	<p>This award recognises outstanding efforts in planning, mobilising, and implementing new policies and programmes in a timely manner to respond to challenges and needs in a fast-changing operating landscape.</p>
+	<p><b>Highest Number of Trainees – Delivery of Member-ICAO Training Packages </b></p>
+	<p>Singapore Aviation Academy (SAA) received the “Highest Number of Trainees – Delivery of Member-ICAO Training Packages” award from ICAO at the TRAINAIR PLUS Programme Recognition Award Ceremony held in conjunction with the ICAO Global Implementation Support Symposium in Seoul, Republic of Korea, on 31 May 2023. This award is in recognition of SAA delivering 6 runs of self-developed ICAO courses in 2022, reaching out to 80 trainees from more than 40 countries.</p>
 
 </center>
