@@ -31,12 +31,11 @@ variant: markdown
 
 
 
-![](/images/ACCOLADES/CAAS/ComChest-Award.jpg)
+![](/images/ACCOLADES/CAAS/Flight_Safety_Foundation_Gloria_Heath_Trophy__web_.jpg)
 
 <center>
-	<p><b></b></p>
-	<p>SHARE is a monthly giving programme of Community Chest which enables individuals to make small but regular donations on a sustained basis through convenient modes such as payroll.</p>
-	<p>SHARE Platinum is for organisations who have regular monetary contribution and high SHARE participation rate of 90-97% towards ComChest.</p>
+	<p><b>Flight Safety Foundation’s Gloria Heath Trophy</b></p>
+	<p>Ms Tan Siew Huay was awarded the Flight Safety Foundation’s Gloria Heath Trophy. The Gloria Heath Trophy recognises a woman for notable achievements in civil aviation, and Ms Tan is being recognised for her leadership on the international stage and for advancing aviation law and the industry.</p>
 </center>
 
 ![](/images/ACCOLADES/CAAS/CAAS%20One%20Publis%20Service%20Award%20-%20Enhanced%20SHN.jpg)
