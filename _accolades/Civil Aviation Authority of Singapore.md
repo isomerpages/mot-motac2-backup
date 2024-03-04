@@ -38,11 +38,21 @@ variant: markdown
 	<p>Ms Tan Siew Huay was awarded the Flight Safety Foundation’s Gloria Heath Trophy. The Gloria Heath Trophy recognises a woman for notable achievements in civil aviation, and Ms Tan is being recognised for her leadership on the international stage and for advancing aviation law and the industry.</p>
 </center>
 
-![](/images/ACCOLADES/CAAS/CAAS%20One%20Publis%20Service%20Award%20-%20Enhanced%20SHN.jpg)
-
+<div class="row">
+  <div class="col is-6">
+      <div class="speaker-image-wrapper">
+        <img class="img-fluid mb-3" src="/images/ACCOLADES/CAAS/RSAF_Chief_of_Air_Force_Safety_Award___Audrey.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Audrey">
+      </div>
+  </div>
+  <div class="col is-6">
+      <div class="speaker-image-wrapper">
+        <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/CAAS/RSAF_Chief_of_Air_Force_Safety_Award___Farhan.jpg" alt="RSAF_Chief_of_Air_Force_Safety_Award___Farhan">
+      </div>
+  </div>
+</div>
 <center>
-	<p><b>Public Sector Transformation Awards – One Public Service Award: Enhanced Stay Home Notice (SHN) Operations&nbsp;</b></p>
-	<p>This award recognises agencies for exemplary inter-agency initiatives that have reflected a sustained and institutionalised approach to collaboration. The initiatives may be exemplary WOG efforts in: (i) service delivery, (ii) citizen engagement, (iii) regulatory review, (iv) digitalisation that achieve a transformative (not incremental) change in how things are done; or (v) innovation at the WOG level.</p>
+	<p><b>RSAF Chief of Air Force Safety Award </b></p>
+	<p>Air Traffic Control Officers Tan Xin Fen Audrey and Mohd Farhan bin Mohd Taib were awarded the RSAF Chief of Air Force Safety Award for the facilitation of RSAF aircraft making emergency landing in Changi Airport</p>
 </center>
 
 ![](/images/ACCOLADES/CAAS/Project%20Haven.jpg)
