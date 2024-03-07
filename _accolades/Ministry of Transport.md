@@ -45,6 +45,6 @@ variant: markdown
 ![](/images/ACCOLADES/MOT/GERI_PST_Awards.jpg)
 
 <center>
-	<p><b>Public Sector Transformation Awards – Regulatory Excellence Award: Green Economy Regulatory Initiative (GERI) </b></p>
+	<p><b>Public Sector Transformation Awards –<br> Regulatory Excellence Award: Green Economy Regulatory Initiative (GERI) </b></p>
 	<p>It is an award that recognises exemplary initiatives that have made reforms that reduce regulatory burden and cost, create value for the Public Service, and are future-ready. This could be through streamlining of existing regulations, making regulatory advances enabled by digitalisation/innovation, or through creating forward-looking regulations that facilitate industry innovations and new business models. </p>
 </center>
