@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/hero.png)
 
 <center>
-	<h2>Ministry Of Transport</h2>
+	<h2>Ministry of Transport</h2>
 </center>
 
 ![](/images/ACCOLADES/MOT/ComChest.jpg)
