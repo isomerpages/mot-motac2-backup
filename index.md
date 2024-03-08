@@ -8,5 +8,5 @@ notification: ""
 sections:
   - hero:
       background: /images/home_hero.jpg
-      variant: image
+      variant: center
 ---
