@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero.png
+      background: /images/home_hero.jpg
+      variant: image
 ---
-
-
