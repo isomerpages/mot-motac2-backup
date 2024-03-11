@@ -1,5 +1,4 @@
 collections:
   value-for-money-award:
     output: true
-    order:
-      - Radio Coverage Enhancement.md
+    order: []
