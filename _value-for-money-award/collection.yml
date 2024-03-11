@@ -1,4 +1,5 @@
 collections:
   value-for-money-award:
     output: true
-    order: []
+    order:
+      - The Robotic Process Automation Core Competency Centre (RC3).md
