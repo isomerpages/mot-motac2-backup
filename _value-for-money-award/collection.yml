@@ -2,6 +2,7 @@ collections:
   value-for-money-award:
     output: true
     order:
+      - Protective Casings in Changi East Industrial Zone.md
       - The First Obround Launch Shaft.md
       - Re Purposing of Thermal Scanners Used at Floating Accommodations.md
       - Consolidation of CAAS Facilities Management.md
