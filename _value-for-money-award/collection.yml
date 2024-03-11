@@ -2,6 +2,7 @@ collections:
   value-for-money-award:
     output: true
     order:
+      - A Data Driven Approach to Ticketing Machines Provision.md
       - "EnABLE: Enterprise Applications Built on Lowcode Environment.md"
       - Optimisation of Rail Tunnels Construction Under Live Utilities.md
       - The Robotic Process Automation Core Competency Centre (RC3).md
