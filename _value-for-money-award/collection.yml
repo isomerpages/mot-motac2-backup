@@ -2,7 +2,6 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - JRL Viaduct Bearings.md
       - Reduce Utility Diversions CPe.md
       - MPA Enterprise Data eXchange.md
       - Approach Spacing Tool for ATC.md
