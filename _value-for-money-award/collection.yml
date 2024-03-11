@@ -2,7 +2,6 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - Min VFM Award Video.md
       - Auto Runway Reporting.md
       - JRL Viaduct Bearings.md
       - Reduce Utility Diversions CPe.md
