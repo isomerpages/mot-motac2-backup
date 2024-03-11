@@ -2,4 +2,5 @@ collections:
   value-for-money-award:
     output: true
     order:
+      - Optimisation of Rail Tunnels Construction Under Live Utilities.md
       - The Robotic Process Automation Core Competency Centre (RC3).md
