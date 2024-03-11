@@ -2,5 +2,4 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - Water Mist System.md
       - Radio Coverage Enhancement.md
