@@ -2,7 +2,6 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - Reduce Utility Diversions CPe.md
       - MPA Enterprise Data eXchange.md
       - Approach Spacing Tool for ATC.md
       - CRL Train Fleet Optimisation.md
