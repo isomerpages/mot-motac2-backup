@@ -2,6 +2,7 @@ collections:
   value-for-money-award:
     output: true
     order:
+      - Optimisation of T2 Aircraft Stand Layout for T2 T5 Connection.md
       - A Data Driven Approach to Ticketing Machines Provision.md
       - "EnABLE: Enterprise Applications Built on Lowcode Environment.md"
       - Optimisation of Rail Tunnels Construction Under Live Utilities.md
