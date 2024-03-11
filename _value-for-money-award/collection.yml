@@ -2,6 +2,5 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - Mgt of Ht Restriction NSC.md
       - Water Mist System.md
       - Radio Coverage Enhancement.md
