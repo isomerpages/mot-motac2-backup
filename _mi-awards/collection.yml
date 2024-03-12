@@ -2,6 +2,8 @@ collections:
   mi-awards:
     output: true
     order:
+      - Enhancing Utilities Visualisation in Construction Works with Augmented
+        Reality.md
       - Outcome based Fire Safety Analysis for Solar Photovoltaic Deployment.md
       - AI enabled Multispectral Imaging Using Unmanned Aerial Vehicle for
         Turbidity Monitoring.md
