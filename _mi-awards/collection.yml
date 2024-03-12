@@ -2,6 +2,7 @@ collections:
   mi-awards:
     output: true
     order:
+      - 50 Years of Singapore’s Container Shipping Journey.md
       - Conflict Resolution Tool and Study for Air Traffic Management.md
       - Development and Operationalisation of Integrated Cybersecurity Defence
         Centre.md
