@@ -2,5 +2,6 @@ collections:
   mi-awards:
     output: true
     order:
+      - Thomson East Coast Line 3 (TEL3) Digital Campaign.md
       - Behind the Scenes with MOT.md
       - Caring Commuter Award Comic Illustrations.md
