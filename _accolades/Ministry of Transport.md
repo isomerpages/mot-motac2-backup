@@ -31,7 +31,7 @@ variant: markdown
       </div>
   </div>
 </div>
-<center>
+<center class="mt-0">
 	<p>It is an annual event organised by GovTech to recognise outstanding achievements and excellence in delivering digital services to the public. </p>
 </center>
 
