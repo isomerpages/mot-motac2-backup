@@ -2,5 +2,4 @@ collections:
   mi-awards:
     output: true
     order:
-      - Use of Movable Table Formwork.md
       - A Caring Commuter Culture.md
