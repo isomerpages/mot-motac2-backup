@@ -2,7 +2,6 @@ collections:
   mi-awards:
     output: true
     order:
-      - Purpose built C UAS OCC.md
       - Innovative Engagements at CAS.md
       - Robotic Technology IRIS.md
       - Use of Movable Table Formwork.md
