@@ -2,7 +2,6 @@ collections:
   mi-awards:
     output: true
     order:
-      - "RGV: SmartGrind Feature.md"
       - MPA Decarbonisation Blueprint.md
       - Livestream Exclusive Content.md
       - Purpose built C UAS OCC.md
