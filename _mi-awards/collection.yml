@@ -1,4 +1,5 @@
 collections:
   mi-awards:
     output: true
-    order: []
+    order:
+      - Caring Commuter Award Comic Illustrations.md
