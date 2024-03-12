@@ -1,5 +1,4 @@
 collections:
   mi-awards:
     output: true
-    order:
-      - A Caring Commuter Culture.md
+    order: []
