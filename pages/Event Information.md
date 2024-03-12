@@ -47,7 +47,7 @@ variant: markdown
 <p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
 </p>
 </li>
-<li>
+<li class="mb-0">
 <p>Senior Parliamentary Secretary for Transport and Sustainability and the
 Environment, <strong>Mr Baey Yam Keng</strong>
 </p>
@@ -91,7 +91,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 <li>
 <p>Commendation and Efficiency Medals</p>
 </li>
-<li>
+<li class="mb-0">
 <p>Long Service Medal</p>
 </li>
 </ul>
