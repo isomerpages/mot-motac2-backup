@@ -57,6 +57,66 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome Remarks by Emcee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arrival of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
+</p>
+</li>
+<li>
+<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
+</p>
+</li>
+<li>
+<p>Senior Parliamentary Secretary for Transport and Sustainability and the
+Environment, <strong>Mr Baey Yam Keng</strong> 
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td rowspan="2" colspan="1">
+<p>7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome Remarks by Emcee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arrival of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
+</p>
+</li>
+<li>
+<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
+</p>
+</li>
+<li>
+<p>Senior Parliamentary Secretary for Transport and Sustainability and the
+Environment, <strong>Mr Baey Yam Keng</strong> 
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p>7.30pm</p>
 </td>
@@ -90,6 +150,36 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome Remarks by Emcee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arrival of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
+</p>
+</li>
+<li>
+<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
+</p>
+</li>
+<li>
+<p>Senior Parliamentary Secretary for Transport and Sustainability and the
+Environment, <strong>Mr Baey Yam Keng</strong> 
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -98,6 +188,36 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome Remarks by Emcee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arrival of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
+</p>
+</li>
+<li>
+<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
+</p>
+</li>
+<li>
+<p>Senior Parliamentary Secretary for Transport and Sustainability and the
+Environment, <strong>Mr Baey Yam Keng</strong> 
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
