@@ -21,13 +21,13 @@ variant: markdown
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_SEO.jpg" alt="Best_SEO">
-				<center><p class="text-center"><b>Whole of Government Digital Services Awards: Best Search Engine Optimisation </b></p></center>
+				<center class="mb-0"><p class="text-center"><b>Whole of Government Digital Services Awards: Best Search Engine Optimisation </b></p></center>
       </div>
   </div>
   <div class="col is-6">
       <div class="speaker-image-wrapper">
         <img class="speaker-image img-fluid mb-3" src="/images/ACCOLADES/MOT/Best_Accessibility.jpg" alt="Best_Accessibility">
-					<center><p class="text-center"><b>Whole of Government Digital Services Awards: Best Accessibility  </b></p></center>
+					<center class="mb-0"><p class="text-center"><b>Whole of Government Digital Services Awards: Best Accessibility  </b></p></center>
       </div>
   </div>
 </div>
