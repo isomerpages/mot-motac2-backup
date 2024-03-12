@@ -50,7 +50,6 @@ variant: tiptap
 <li>
 <p>Senior Parliamentary Secretary for Transport and Sustainability and the
 Environment, <strong>Mr Baey Yam Keng</strong> 
-<br>
 </p>
 </li>
 </ul>
@@ -66,9 +65,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Commencement of Dinne
-<br>
-</p>
+<p>Commencement of Dinne</p>
 </td>
 </tr>
 <tr>
@@ -81,9 +78,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acknowledgement of the MOT Family Higher NDA Recipients
-<br>
-</p>
+<p>Acknowledgement of the MOT Family Higher NDA Recipients</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +103,6 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presentation of Letter of Appreciation to Former CE PTC by Minister</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -150,9 +144,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Presentation of MI Award by Minister
-<br>
-</p>
+<p>Presentation of MI Award by Minister</p>
 </td>
 </tr>
 <tr>
