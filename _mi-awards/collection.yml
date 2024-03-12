@@ -2,6 +2,7 @@ collections:
   mi-awards:
     output: true
     order:
+      - Conflict Resolution Tool and Study for Air Traffic Management.md
       - Development and Operationalisation of Integrated Cybersecurity Defence
         Centre.md
       - Digital Towing Application for Changi Aerodrome.md
