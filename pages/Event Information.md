@@ -40,7 +40,7 @@ variant: markdown
 <p>Arrival of:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
+<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance,<br> <strong>Mr Chee Hong Tat</strong>
 </p>
 </li>
 <li>
