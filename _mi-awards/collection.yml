@@ -2,6 +2,5 @@ collections:
   mi-awards:
     output: true
     order:
-      - Robotic Technology IRIS.md
       - Use of Movable Table Formwork.md
       - A Caring Commuter Culture.md
