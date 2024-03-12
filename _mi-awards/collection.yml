@@ -2,6 +2,7 @@ collections:
   mi-awards:
     output: true
     order:
+      - Viaduct Bearing Inspection Exploiting Drone, Photogrammetry and AI.md
       - Singapore’s First Ship to Container Ship Methanol Bunkering.md
       - "CARE Bus: Commuters at the Heart of Co Creation.md"
       - 50 Years of Singapore’s Container Shipping Journey.md
