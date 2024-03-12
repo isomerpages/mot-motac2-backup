@@ -2,7 +2,6 @@ collections:
   mi-awards:
     output: true
     order:
-      - Restoring SG Air Connectivity.md
       - User centric Commuter Infra.md
       - "RGV: SmartGrind Feature.md"
       - MPA Decarbonisation Blueprint.md
