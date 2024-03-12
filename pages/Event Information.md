@@ -49,7 +49,7 @@ variant: tiptap
 </li>
 <li>
 <p>Senior Parliamentary Secretary for Transport and Sustainability and the
-Environment, <strong>Mr Baey Yam Keng</strong>
+Environment, <strong>Mr Baey Yam Keng</strong> 
 <br>
 </p>
 </li>
@@ -58,28 +58,35 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Convention Centre, Level 3,</p>
+<p>Presentation of the National Day Awards</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Commendation and Efficiency Medals</p>
+</li>
+<li>
+<p>Long Service Medal</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cassia Ballroom</strong>
-</p>
+<p>Presentation of Letter of Appreciation to Former CE PTC by Minister</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dress Code</strong>
-</p>
+<p>8.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Instrumental Performance</p>
 </td>
 </tr>
 <tr>
