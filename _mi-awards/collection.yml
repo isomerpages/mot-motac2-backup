@@ -2,6 +2,8 @@ collections:
   mi-awards:
     output: true
     order:
+      - Development and Operationalisation of Integrated Cybersecurity Defence
+        Centre.md
       - Digital Towing Application for Changi Aerodrome.md
       - Innovative Unmanned Aircraft Assessments for XPRIZE Rainforest.md
       - Agile, Efficient and Cost Effective Temporary Bus Shelters.md
