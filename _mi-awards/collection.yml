@@ -2,6 +2,7 @@ collections:
   mi-awards:
     output: true
     order:
+      - Datacentre Resiliency Enhancement, Approach to Modernisation.md
       - Maritime 5G and Maritime Drone Estate.md
       - LTA’s TikTok Channel.md
       - Thomson East Coast Line 3 (TEL3) Digital Campaign.md
