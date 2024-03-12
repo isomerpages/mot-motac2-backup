@@ -2,4 +2,5 @@ collections:
   mi-awards:
     output: true
     order:
+      - Behind the Scenes with MOT.md
       - Caring Commuter Award Comic Illustrations.md
