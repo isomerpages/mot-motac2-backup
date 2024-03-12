@@ -58,65 +58,35 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>7.00pm</p>
+<p>7.05pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welcome Remarks by Emcee</p>
+<p>Opening Performance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arrival of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
-</p>
-</li>
-<li>
-<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
-</p>
-</li>
-<li>
-<p>Senior Parliamentary Secretary for Transport and Sustainability and the
-Environment, <strong>Mr Baey Yam Keng</strong> 
+<p>Commencement of Dinne
 <br>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
-</tr><tr>
 <td rowspan="2" colspan="1">
-<p>7.00pm</p>
+<p>7.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welcome Remarks by Emcee</p>
+<p>Screening of Accolades</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arrival of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
-</p>
-</li>
-<li>
-<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
-</p>
-</li>
-<li>
-<p>Senior Parliamentary Secretary for Transport and Sustainability and the
-Environment, <strong>Mr Baey Yam Keng</strong> 
+<p>Acknowledgement of the MOT Family Higher NDA Recipients
 <br>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
-</tr><tr>
 <td rowspan="1" colspan="1">
 <p>7.30pm</p>
 </td>
@@ -151,110 +121,54 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>7.00pm</p>
+<p>8.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welcome Remarks by Emcee</p>
+<p>Screening of the Minister’s VFM Achievement Award Video</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Presentation of the Minister’s VFM Achievement Award by Minister</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arrival of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
-</p>
-</li>
-<li>
-<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
-</p>
-</li>
-<li>
-<p>Senior Parliamentary Secretary for Transport and Sustainability and the
-Environment, <strong>Mr Baey Yam Keng</strong> 
-<br>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-</tr><tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>8.55pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Instrumental Performance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>7.00pm</p>
+<p>9.10pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welcome Remarks by Emcee</p>
+<p>Screening of the MI Award Video</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arrival of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Guest-of-Honour, Minister for Transport and Second Minister for Finance, <strong>Mr Chee Hong Tat</strong>
-</p>
-</li>
-<li>
-<p>Senior Minister of State for Transport and Sustainability and the Environment, <strong>Dr Amy Khor</strong>
-</p>
-</li>
-<li>
-<p>Senior Parliamentary Secretary for Transport and Sustainability and the
-Environment, <strong>Mr Baey Yam Keng</strong> 
+<p>Presentation of MI Award by Minister
 <br>
 </p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-</tr><tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9.55pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Screening of the Event Finale Video</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>End of Ceremony</p>
 </td>
 </tr>
 </tbody>
