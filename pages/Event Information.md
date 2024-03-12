@@ -49,7 +49,7 @@ variant: tiptap
 </li>
 <li>
 <p>Senior Parliamentary Secretary for Transport and Sustainability and the
-Environment, <strong>Mr Baey Yam Keng</strong> 
+Environment, <strong>Mr Baey Yam Keng</strong>
 </p>
 </li>
 </ul>
