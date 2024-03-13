@@ -12,10 +12,6 @@ variant: markdown
 </center>
 <center>
   <p>
-    <b>Mr Tan Yan Tat Joel</b>
-    <br>Former Senior Assistant Director/International Relations, International Relations and Security Division, Ministry of Transport
-  </p>
-  <p>
     <b>Ms Lam Pei Xin</b>
     <br>Senior Assistant Director/Finance, Corporate Development Division, Ministry of Transport
   </p>
