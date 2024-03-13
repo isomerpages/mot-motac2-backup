@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 ![](/images/hero.png)
-<center class="mt-1">
-  <h2>THE PUBLIC SERVICE MEDAL</h2>
+<center>
+  <h2 class="mb-1">THE PUBLIC SERVICE MEDAL</h2>
   <h3>[Pingat Bakti Masyarakat]</h3>
 </center>
 <center>
