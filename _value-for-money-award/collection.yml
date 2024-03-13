@@ -2,7 +2,7 @@ collections:
   value-for-money-award:
     output: true
     order:
-      - Main.md
+      - Min Inno Award Video.md
       - Green Flight Paths to Enhance Fuel Savings.md
       - Protective Casings in Changi East Industrial Zone.md
       - The First Obround Launch Shaft.md
