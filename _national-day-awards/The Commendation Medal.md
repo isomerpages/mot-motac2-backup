@@ -151,4 +151,5 @@ variant: markdown
     <br>Senior Manager (Standards &amp; Investigation – Marine Fuel), Operations &amp; Marine Services, Standards &amp; Investigation – Marine Fuel, Maritime and Port Authority of Singapore
   </p>
 </center>
+
 *Source: Government Gazette Published on 9th August 2023*
