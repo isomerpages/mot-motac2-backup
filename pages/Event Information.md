@@ -65,7 +65,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Commencement of Dinne</p>
+<p>Commencement of Dinner</p>
 </td>
 </tr>
 <tr>
