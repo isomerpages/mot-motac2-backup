@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/hero.png) 
-
 <center>
   <h2>THE COMMENDATION MEDAL</h2>
   <h3>[Pingat Kepujian]</h3>
@@ -152,3 +151,4 @@ variant: markdown
     <br>Senior Manager (Standards &amp; Investigation – Marine Fuel), Operations &amp; Marine Services, Standards &amp; Investigation – Marine Fuel, Maritime and Port Authority of Singapore
   </p>
 </center>
+*Source: Government Gazette Published on 9th August 2023*
