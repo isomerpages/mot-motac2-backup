@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/hero.png) 
-
    <center>
      <h2>THE PUBLIC ADMINISTRATION MEDAL (GOLD)</h2>
      <h3>[Pingat Pentadbiran Awam (Emas)]</h3>
