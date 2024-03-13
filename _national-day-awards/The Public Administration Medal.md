@@ -41,7 +41,7 @@ variant: markdown
    <center>
      <p>
        <b>Mdm Ho Pei See</b>
-       <br>Deputy Director/Finance (Projects), Corporate Development Division, Ministry of Transport
+       <br>Deputy Director/Finance, Corporate Development Division, Ministry of Transport
      </p>
      <p>
        <b>Ms Heng Ju-Li</b>
