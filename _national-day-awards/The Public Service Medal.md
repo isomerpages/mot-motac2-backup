@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/hero.png)
 <center>
-  <h2 class="mb-1">THE PUBLIC SERVICE MEDAL</h2>
+  <h2>THE PUBLIC SERVICE MEDAL</h2>
   <h3>[Pingat Bakti Masyarakat]</h3>
 </center>
 <center>
@@ -17,3 +17,9 @@ variant: markdown
 </center>
 
 *Source: Government Gazette Published on 9th August 2023*
+
+<style>
+	h3{
+	margin-top:0 !important;
+	}
+</style>
