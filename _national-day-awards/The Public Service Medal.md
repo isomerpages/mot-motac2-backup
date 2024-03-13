@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ![](/images/hero.png)
-
 <center>
   <h2>THE PUBLIC SERVICE MEDAL</h2>
   <h3>[Pingat Bakti Masyarakat]</h3>
@@ -16,3 +15,4 @@ variant: markdown
     <br>Member, Public Transport Council
   </p>
 </center>
+*Source: Government Gazette Published on 9th August 2023*
