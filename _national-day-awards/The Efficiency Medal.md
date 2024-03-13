@@ -156,3 +156,5 @@ variant: markdown
     <br>Senior Executive (Seafarers Skills Upgrading, Certification and Accreditation), Shipping, Seafarers Skills Upgrading, Certification and Accreditation, Maritime and Port Authority of Singapore
   </p>
 </center>
+
+*Source: Government Gazette Published on 9th August 2023*
