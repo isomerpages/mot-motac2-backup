@@ -102,7 +102,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 <p>8.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presentation of Letter of Appreciation to Former CE PTC by Minister</p>
+<p>Presentation of Letter of Appreciation and Long Service Medal to Former CE PTC by Minister</p>
 </td>
 </tr>
 <tr>
