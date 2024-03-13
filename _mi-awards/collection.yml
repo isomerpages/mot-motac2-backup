@@ -2,7 +2,7 @@ collections:
   mi-awards:
     output: true
     order:
-      - Min VFM Award Video.md
+      - Min Inno Award Video.md
       - Multi Regional Trajectory Based Operations.md
       - Realtime Health Monitoring of Track Insulation in Railway.md
       - Viaduct Bearing Inspection Exploiting Drone, Photogrammetry and AI.md
