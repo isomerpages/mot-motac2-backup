@@ -21,7 +21,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5:30pm</p>
+<p>5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for Award Recipients</p>
@@ -29,7 +29,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>7:00pm</p>
+<p>7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Welcome Remarks by Emcee</p>
@@ -57,7 +57,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>7:05pm</p>
+<p>7.05pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Opening Performance</p>
@@ -83,7 +83,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7:30pm</p>
+<p>7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presentation of the National Day Awards</p>
@@ -99,7 +99,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8:15pm</p>
+<p>8.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presentation of Letter of Appreciation and Long Service Medal to Former CE PTC by Minister</p>
@@ -107,7 +107,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8:20pm</p>
+<p>8.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Instrumental Performance</p>
@@ -115,7 +115,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>8:35pm</p>
+<p>8.35pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Screening of the Minister’s VFM Achievement Award Video</p>
@@ -128,7 +128,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8:55pm</p>
+<p>8.55pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Instrumental Performance</p>
@@ -136,7 +136,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>9:10pm</p>
+<p>9.10pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Screening of the MI Award Video</p>
@@ -149,7 +149,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9:55pm</p>
+<p>9.55pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Screening of the Event Finale Video</p>
@@ -157,7 +157,7 @@ Environment, <strong>Mr Baey Yam Keng</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:00pm</p>
+<p>10.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End of Ceremony</p>
