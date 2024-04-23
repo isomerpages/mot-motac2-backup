@@ -1,0 +1,9 @@
+collections:
+  national-day-awards:
+    output: true
+    order:
+      - The Public Service Medal.md
+      - The Public Administration Medal.md
+      - The Commendation Medal.md
+      - The Efficiency Medal.md
+      - The Long Service Medal.md
